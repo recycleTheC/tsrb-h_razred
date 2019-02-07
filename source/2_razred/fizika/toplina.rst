@@ -94,9 +94,9 @@ Toplina i termodinamika
 
   :math:`\frac {m}{\rho}=\frac {m}{\rho_0}*(1+\alpha*\Delta{T})`
 
-  :math:`\frac {1}{\rho}=\frac {(1+\alpha*\Delta{T})}{\rho_0}`
-  
-.. admonition:: **Gustoća s promjenom temperature**
+  :math:`\frac {1}{\rho}=\frac {1+\alpha*\Delta{T}}{\rho_0}`
+
+  .. admonition:: **Gustoća s promjenom temperature**
   :math:`\rho=\frac {\rho_0}{1+\alpha*\Delta{T}}`
 
 8. Boyle - Mariotteov zakon + jednadžbe
