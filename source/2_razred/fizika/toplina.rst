@@ -1,7 +1,10 @@
 Toplina i termodinamika
 =======================
 
-1. Definicije temperature.
+1. **Definicije temperature**
+
+  *Temperatura je mjera zagrijanosti tijela.*
+
 2. Temperaturne ljestvice
 3. Zakoni linearnog i volumnog rastezanja
 4. Definirati koeficijente linearnog i volumnog rastezanja
