@@ -29,7 +29,9 @@ Toplina i termodinamika
   :math:`\Delta{l}=l_0*\beta*\Delta{T}`
 
   :math:`l-l_0=l_0*\beta*\Delta{T}`
+
   :math:`l=l_0+l_0*\beta*\Delta{T}`
+
   :math:`l=l_0*(+\beta*\Delta{t})`
 
 
