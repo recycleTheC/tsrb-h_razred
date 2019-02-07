@@ -40,6 +40,7 @@ Toplina i termodinamika
 
   .. image:: img/volumno_rastezanje.jpg
   
+
   :math:`l^3=l_0^3*(1+\beta*\Delta{T})^3`
 
   :math:`V=V_0*(1+\beta*\Delta{T})^3`
