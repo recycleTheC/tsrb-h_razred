@@ -3,14 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to TSRB - Skripte za učenje
+2. razred
 ====================================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-\2_razred\index.rst
+
 
 Indices and tables
 ==================
