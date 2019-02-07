@@ -17,7 +17,9 @@ Toplina i termodinamika
   2) termodinamička, **T/K** *(SI sustav)*
   3) Fahrenheitova, **t/°F**
 
-  :math:`\Delta{t} = \Delta{T}`
+  :math:`\Delta{t} = \Delta{T}` *[temperaturna razlika izražena u K ili °C prema iznosu je jednaka]*
+
+  Pretvaranje: :math:`t/°F = \frac {9}{5} * t/°C + 32`
 
 3. Zakoni linearnog i volumnog rastezanja
 4. Definirati koeficijente linearnog i volumnog rastezanja
