@@ -11,10 +11,3 @@ Tehnička škola Ruđera Boškovića - Skripte za učenje
    :caption: Razredi
 
    2_razred/index
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
