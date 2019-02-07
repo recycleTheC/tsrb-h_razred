@@ -6,7 +6,7 @@ Toplina i termodinamika
   **Temperatura je stanje zagrijanosti nekog tijela.
   Temperatura je mjera za srednju kinetičku energiju toplinskog gibanja čestica tijela**
 
-  \( \bar E_k \text~ T \)
+  :math:`\bar{E_k} \text~ T`
 
   If :math:`\sigma_{1}` equals :math:`\sigma_{2}` then etc, etc.
 
