@@ -28,7 +28,7 @@ Toplina i termodinamika
     :math:`\beta` -> koeficijent linearnog rastezanja :math:`[K^-1][°C^-1]`
     :math:`\Delta{l}=l_0*\beta*\Delta{T}`
 
-    :math: `l-l_0=l_0*\beta*\Delta{T}`
+    :math:`l-l_0=l_0*\beta*\Delta{T}`
 
 
 4. Definirati koeficijente linearnog i volumnog rastezanja
