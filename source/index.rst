@@ -10,7 +10,7 @@ Welcome to TSRB - Skripte za učenje
    :maxdepth: 2
    :caption: Contents:
 
-   2_razred\index
+   2_razred/index
 
 Indices and tables
 ==================

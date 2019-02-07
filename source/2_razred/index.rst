@@ -10,7 +10,7 @@
    :maxdepth: 2
    :caption: Contents:
 
-   fizika\index
+   fizika/index
 
 Indices and tables
 ==================
