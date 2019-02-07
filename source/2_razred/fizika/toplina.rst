@@ -23,7 +23,7 @@ Toplina i termodinamika
 
 3. **Zakoni linearnog i volumnog rastezanja**
 
-  **Linearno rastezanje**
+.. admonition:: **Linearno rastezanje**
 
   .. image:: img/linearno_rastezanje.png
   :math:`\beta` -> koeficijent linearnog rastezanja :math:`[K^-1][°C^-1]`
@@ -36,9 +36,11 @@ Toplina i termodinamika
 
   :math:`l=l_0*(1+\beta*\Delta{t})`
 
-  **Volumo rastezanje**
+.. admonition:: **Volumo rastezanje**
 
-  :math:`l^3=l_0^3*(1+\beta*\Delta{T})`
+  :math:`l^3=l_0^3*(1+\beta*\Delta{T})^3`
+
+  :math:`V=V_0*(1+\beta*\Delta{T})^3`
 
   :math:`V=V_0*(1+\alpha*\Delta{T})`
 
