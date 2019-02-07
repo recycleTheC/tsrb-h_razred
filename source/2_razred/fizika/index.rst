@@ -3,14 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-2. razred
+FIZIKA 2
 ====================================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   fizika\index.rst
+
 
 Indices and tables
 ==================
