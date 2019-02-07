@@ -8,7 +8,7 @@ Fizika
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Sadržaj:
 
    toplina.rst
 
