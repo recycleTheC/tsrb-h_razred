@@ -1,21 +1,23 @@
 Toplina i termodinamika
 =======================
 
-1. ***Definicije temperature***
+1. **Definicije temperature**
 
   **Temperatura je stanje zagrijanosti nekog tijela.
   Temperatura je mjera za srednju kinetičku energiju toplinskog gibanja čestica tijela**
 
   :math:`\bar{E_k} \text~ T`
 
-  If :math:`\sigma_{1}` equals :math:`\sigma_{2}` then etc, etc.
-
   *[čestice se gibaju nasumično, u svim svmjerovima -> Brownovo gibanje]*
 
 
-2. Temperaturne ljestvice
+2. **Temperaturne ljestvice**
 
+  1) Celziusova, **t/°C**
+  2) termodinamička, **T/K** *(SI sustav)*
+  3) Fahrenheitova, **t/°F**
 
+  ** :math: `\delta{t} = \delta{T}`
 
 3. Zakoni linearnog i volumnog rastezanja
 4. Definirati koeficijente linearnog i volumnog rastezanja
