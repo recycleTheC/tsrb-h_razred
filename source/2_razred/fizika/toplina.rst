@@ -86,13 +86,16 @@ Toplina i termodinamika
 
 7. **Promjena gustoće s temperaturom; izvod jednadžbe**
 
-  :math:`\rho=\fract {m}{V}`
-  :math:`V=\fract {m}{\rho}`
+  :math:`\rho=\frac  {m}{V}`
+  :math:`V=\frac  {m}{\rho}`
 
   :math:`V=V_0*(1+\alpha*\Delta{T})`
-  :math:`\fract{m}{\rho}=\fract{m}{\rho_0}*(1+\alpha*\Delta{T})`
-  :math:`\fract{1}{\rho}=\fract{(1+\alpha*\Delta{T})}{\rho_0}`
-  :math:`\rho=\fract{\rho_0}{1+\alpha*\Delta{T}}`
+
+  :math:`\frac {m}{\rho}=\frac {m}{\rho_0}*(1+\alpha*\Delta{T})`
+
+  :math:`\frac {1}{\rho}=\frac {(1+\alpha*\Delta{T})}{\rho_0}`
+
+  :math:`\rho=\frac {\rho_0}{1+\alpha*\Delta{T}}`
 
 8. Boyle - Mariotteov zakon + jednadžbe
 9. Charlesov zakon + jednadžbe
