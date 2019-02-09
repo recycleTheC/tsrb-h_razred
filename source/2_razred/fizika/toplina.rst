@@ -125,12 +125,27 @@ Toplina i termodinamika
 
   .. image:: img/izotermna.png
 
+  .. admonition:: **Izoterma**
+
+    Pravac koji prikazuje ovisnost tlaka plina o volumenu plina pri konstantnoj temperaturi naziva se izoterma.
+
 9. **Charlesov zakon + jednadžbe**
   [**V=konst.** => **IZOHORNA PROMJENA**]
 
   :math:`\frac {p_1*V}{T_1}=\frac {p_2*V}{T_2}|:V`
 
   :math:`\frac {p_1}{T_1}=\frac {p_2}{T_2}`
+
+  P ~ T
+
+  .. image:: img/izohorna1.png
+
+  .. image:: img/izohorna2.png
+
+  .. admonition:: **Izohora**
+
+    Pravac koji prikazuje izohornu promjenu stanja plina naziva se **izohora**.
+
 
 10. Gay - Lussacov zakon + jednadžbe
 11. Kojim veličinama opisujemo stanje plina?
