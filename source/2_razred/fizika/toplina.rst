@@ -110,24 +110,25 @@ Toplina i termodinamika
   [**T=konst.** => **IZOTERMNA PROMJENA**]
 
   :math:`\frac {p_1*V_1}{T}=\frac {p_2*V_2}{T}|:T`
-
+|
   .. admonition:: **Boyle - Mariotteov zakon**
 
     :math:`p_1*V_1=p_2*V_2`
 
     **Ako se plinu izotermno (*uz stalnu temperaturu*) promjeni stanje, tada je
     umnožak tlaka i obujma nakon promjene jednak umnošku tlaka i obujma prije promjene.**
-
+|
   P ~ :math:`\frac {1}{V}`
-
+|
   .. image:: img/boyle_mariotte.jpg
   *Jednostavan uređaj za opažanje izotermnih promjena stanja plina*
-
+|
   .. image:: img/izotermna.png
-
+|
   .. admonition:: **Izoterma**
 
-    Pravac koji prikazuje ovisnost tlaka plina o volumenu plina pri konstantnoj temperaturi naziva se izoterma.
+    Linija (*hiperbola*) koji prikazuje ovisnost tlaka plina o volumenu plina pri konstantnoj
+    temperaturi naziva se **izoterma**.
 
 9. **Charlesov zakon + jednadžbe**
   [**V=konst.** => **IZOHORNA PROMJENA**]
@@ -141,7 +142,7 @@ Toplina i termodinamika
   .. image:: img/izohorna1.png
 
   .. image:: img/izohorna2.png
-
+  |
   .. admonition:: **Izohora**
 
     Pravac koji prikazuje izohornu promjenu stanja plina naziva se **izohora**.
