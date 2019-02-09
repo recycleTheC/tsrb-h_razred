@@ -111,7 +111,7 @@ Toplina i termodinamika
   .. admonition:: **Boyle - Mariotteov zakon**
     :math:`\frac {p_1*V_1=p_2*V_2}`
 
-  :math:`P~\frac {1}{V}`
+  :math:`P ~ \frac {1}{V}`
 
 9. Charlesov zakon + jednadžbe
 10. Gay - Lussacov zakon + jednadžbe
