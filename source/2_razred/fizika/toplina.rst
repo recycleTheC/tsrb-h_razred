@@ -115,6 +115,9 @@ Toplina i termodinamika
 
     :math:`p_1*V_1=p_2*V_2`
 
+    **Ako se plinu izotermno (*uz stalnu temperaturu*) promjeni stanje, tada je
+    umnožak tlaka i obujma nakon promjene jednak umnošku tlaka i obujma prije promjene.**
+
   P ~ :math:`\frac {1}{V}`
 
   .. image:: img/boyle_mariotte.jpg
@@ -127,7 +130,7 @@ Toplina i termodinamika
 
   :math:`\frac {p_1*V}{T_1}=\frac {p_2*V}{T_2}|:V`
 
-  :math:`\frac {p_1}`
+  :math:`\frac {p_1}{T_1}=\frac {p_2}{T_2}`
 
 10. Gay - Lussacov zakon + jednadžbe
 11. Kojim veličinama opisujemo stanje plina?
@@ -147,6 +150,7 @@ Toplina i termodinamika
 25. Talište / Vrelište
 26. Ovisnost vrelišta o vanjskom tlaku
 27. Ovisnost vrelišta o čistoći tvari
+
 28. Kako računamo rad pri izobarnom/izotermnom/izohornom procesu?
 29. Čime je grafički prikazan rad plina u p-V koordinatnom sustavu?
 30. Kako glasi I. zakon termodinamike?
