@@ -111,8 +111,6 @@ Toplina i termodinamika
 
   :math:`\frac {p_1*V_1}{T}=\frac {p_2*V_2}{T}|:T`
 
-|
-
   .. admonition:: **Boyle - Mariotteov zakon**
 
     :math:`p_1*V_1=p_2*V_2`
@@ -145,8 +143,12 @@ Toplina i termodinamika
 
   .. image:: img/izohorna1.png
 
+|
+
   .. image:: img/izohorna2.png
-  |
+
+|
+
   .. admonition:: **Izohora**
 
     Pravac koji prikazuje izohornu promjenu stanja plina naziva se **izohora**.
