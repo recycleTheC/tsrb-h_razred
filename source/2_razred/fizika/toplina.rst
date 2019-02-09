@@ -229,7 +229,13 @@ Toplina i termodinamika
     :math:`p*V=N*k_B*T`
 
 
-15. Što je unutarnja energija? + jednadžbe
+15. **Što je unutarnja energija? + jednadžbe**
+
+  **Unutarnja energija** je zbroj kinetičkih energija toplinskih gibanja čestica
+  i svih potencijalnih energija međumolekularnog djelovanja.
+
+  :math:`U=$$\sum_{i=1}^n E_Ki`
+
 16. Definicija topline
 17. Specifični toplinski kapacitet i toplinski kapacitet
 18. Richmannovo pravilo smjese
