@@ -178,15 +178,50 @@ Toplina i termodinamika
 
   .. image:: img/izobarna1.png
   *Ovisnot volumena plina o temperaturi uz konstantan tlak (V,T dijagram)*
+
   |
+
   .. image:: img/izobarna2.png
-  *Ovisnot volumena plina o temperaturi uz konstantan tlak (V,t dijagram)*  
+  *Ovisnot volumena plina o temperaturi uz konstantan tlak (V,t dijagram)*
 
 
-11. Kojim veličinama opisujemo stanje plina?
+11. **Kojim veličinama opisujemo stanje plina?**
+
+  Stanje plina opisujemo **tlakom, volumenom i termodinamičkom temperaturom.**
+
 12. Grafički prikaz izobarne, izohorne i izotermne promjene u koordinatnom sustavu
-13. Zašto termodinamičku temperaturu temperaturu zovemo apsolutnom?
+
+13. Zašto termodinamičku temperaturu zovemo apsolutnom?
+
+  Termodinamičku temperatutu nazivamo apsolutnom jer na temperaturi od 0 K
+  (*apsolutna nula*) gotovo nema termičkoga gibanja čestica.
+
 14. Jednadžbe stanja idealnog toplina
+
+  1) :math:`\frac {p*V}{T}=konst.`
+     :math:`\frac {p_1*V_1}{T_1}=\frac {p_2*V_2}{T_1}|krati se konstantna veličina`
+
+  2) :math:`p*V=n*R*T`
+
+     :math:`n` - **množina/količina tvari**
+
+      :math:`n=\frac {m}{M}=\frac {N}{N_A}=\frac {V}{V_n}`
+
+      :math:`N` - **broj čestica**
+      :math:`N_A = 6,022*10^23 mol^-1` - **Avogardov broj**
+      :math:`V_n` - **molarni volumen**
+
+     :math:`R` - **opća plinska konstanta**
+
+      :math:`R=8,314 \frac {J}{K*mol}`
+
+  3) :math:`p*V=\frac {N}{N_A}*R*T`
+
+      :math:`k_B=\frac {R}{N_A}= 1,38*10^-23 \frac {J}{K^-1}` - **Boltzmannova konstanta**
+
+    :math:`p*V=N*k_B*T`
+
+
 15. Što je unutarnja energija? + jednadžbe
 16. Definicija topline
 17. Specifični toplinski kapacitet i toplinski kapacitet
