@@ -210,7 +210,7 @@ Toplina i termodinamika
 
       :math:`N` - **broj čestica**
 
-      :math:`N_A = 6,022*10^23 mol^(-1)` - **Avogardov broj**
+      :math:`N_A = 6,022*10^{23} mol^{-1}` - **Avogardov broj**
 
       :math:`V_n` - **molarni volumen**
 
@@ -220,7 +220,7 @@ Toplina i termodinamika
 
   3) :math:`p*V=\frac {N}{N_A}*R*T`
 
-      :math:`k_B=\frac {R}{N_A}= 1,38*10^-23 \frac {J}{K^-1}` - **Boltzmannova konstanta**
+      :math:`k_B=\frac {R}{N_A}= 1,38*10^{-23} \frac {J}{K^{-1}}` - **Boltzmannova konstanta**
 
     :math:`p*V=N*k_B*T`
 
