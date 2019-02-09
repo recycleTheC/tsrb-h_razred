@@ -117,14 +117,16 @@ Toplina i termodinamika
 
     **Ako se plinu izotermno (*uz stalnu temperaturu*) promjeni stanje, tada je
     umnožak tlaka i obujma nakon promjene jednak umnošku tlaka i obujma prije promjene.**
-|
+
   P ~ :math:`\frac {1}{V}`
-|
+
   .. image:: img/boyle_mariotte.jpg
   *Jednostavan uređaj za opažanje izotermnih promjena stanja plina*
-|
+
   .. image:: img/izotermna.png
+
 |
+
   .. admonition:: **Izoterma**
 
     Linija (*hiperbola*) koji prikazuje ovisnost tlaka plina o volumenu plina pri konstantnoj
