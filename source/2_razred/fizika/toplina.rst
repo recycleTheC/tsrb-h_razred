@@ -95,7 +95,7 @@ Toplina i termodinamika
 
   :math:`V=V_0*(1+\alpha*\Delta{T})`
 
-  :math:`\frac {m}{\rho}=\frac {m}{\rho_0}*(1+\alpha*\Delta{T})`
+  :math:`\frac {m}{\rho}=\frac {m}{\rho_0}*(1+\alpha*\Delta{T})|:m`
 
   :math:`\frac {1}{\rho}=\frac {1+\alpha*\Delta{T}}{\rho_0}`
 
@@ -117,7 +117,7 @@ Toplina i termodinamika
   .. image:: img/boyle_mariotte.jpg
   *Jednostavan uređaj za opažanje izotermnih promjena stanja plina*
 
-  .. image:: img/izoterma.png
+  .. image:: img/izotermna.png
 
 
 9. Charlesov zakon + jednadžbe
