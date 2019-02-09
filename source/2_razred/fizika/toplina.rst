@@ -21,6 +21,9 @@ Toplina i termodinamika
 
   Pretvaranje: :math:`t/°F = \frac {9}{5} * t/°C + 32`
 
+  .. image:: img/temp_ljestvice.png
+
+
 3. **Zakoni linearnog i volumnog rastezanja**
 
 .. admonition:: **Linearno rastezanje**
@@ -119,8 +122,13 @@ Toplina i termodinamika
 
   .. image:: img/izotermna.png
 
+9. **Charlesov zakon + jednadžbe**
+  [**V=konst.** => **IZOHORNA PROMJENA**]
 
-9. Charlesov zakon + jednadžbe
+  :math:`\frac {p_1*V}{T_1}=\frac {p_2*V}{T_2}|:V`
+
+  :math:`\frac {p_1}`
+
 10. Gay - Lussacov zakon + jednadžbe
 11. Kojim veličinama opisujemo stanje plina?
 12. Grafički prikaz izobarne, izohorne i izotermne promjene u koordinatnom sustavu
