@@ -191,6 +191,8 @@ Toplina i termodinamika
 
 12. Grafički prikaz izobarne, izohorne i izotermne promjene u koordinatnom sustavu
 
+    /
+
 13. Zašto termodinamičku temperaturu zovemo apsolutnom?
 
   Termodinamičku temperatutu nazivamo apsolutnom jer na temperaturi od 0 K
@@ -232,16 +234,74 @@ Toplina i termodinamika
 15. **Što je unutarnja energija? + jednadžbe**
 
   **Unutarnja energija** je zbroj kinetičkih energija toplinskih gibanja čestica
-  i svih potencijalnih energija međumolekularnog djelovanja.
+  i svih potencijalnih energija njihova međudjelovanja.
 
-  :math:`U=$$\sum_{i=1}^n E_Ki`
+  :math:`U=$$\sum_{i=1}^n E_{ki} + \sum_{i=1}^n E_{pi}`
 
-16. Definicija topline
-17. Specifični toplinski kapacitet i toplinski kapacitet
-18. Richmannovo pravilo smjese
-19. Opis kalorimetra
+  :math:`U=\frac {3}{2}n*R*T`
+
+  :math:`U=\frac {3}{2}p*V`
+
+16. **Definicija topline**
+
+  **Toplina** je dio unutarnje energije koja prelazi s jednog tijela na drugo zbog
+  razlika u temperaturi.
+
+  :math:`Q=m*c*\Delta{T}`
+
+  :math:`c` - **specifični toplinski kapacitet**
+
+17. **Specifični toplinski kapacitet i toplinski kapacitet**
+
+  **Specifični toplisnki kapacitet (c)** je veličina koja pokazuje koliku količinu topline
+  izmjeni tijelo mase *1 kg* pri promjeni temperature za *1 K* (ili *1°C*).
+
+    :math:`c=\frac {Q}{m(t_2-t_1)}`
+
+  **Toplinski kapacitet (C)** je veličina koja pokazuje koliku količinu topline tijelo
+  izmjeni pri promjeni temperature za *1 K* (ili *1°C*).
+
+    :math:`C=c*m`
+
+18. **Richmannovo pravilo smjese**
+
+  Kada se dva tijela različitih temperatura stave u dodir ili pomiješaju, tijelo veće
+  temperature predaje toplinu hladnijem sve do izjednačenja temperatura. Obilježimo li
+  mase tijela s :math:`m_1` i :math:`m_2`, njihove specifične toplinske kapacitete s
+  :math:`c_1` i :math:`c_2`, temperature prije dodira (miješanja) s :math:`t_1` i :math:`t_2`,
+  a zajedničku temperaturu (temperaturu smjece) s :math:`\tau`, tada je toplina što je topije tijelo preda:
+
+  :math:`Q_1=m_1*c_1(\tau-t_1)`
+
+  a toplina što je hladnije tijelo primi:
+
+  :math:`Q_2=m_2*c_2(\tau-t_2)`
+
+  Ako su tijela izdvojena (izloirana) od drugih tijela, vrijedi: :math:`m_1*c_1(t_1-\tau)=m_2*c_2(\tau-t_2)`
+
+  **Richmannovo pravilo** kaže da je količina topline koju tijelo niže temperature
+  primi od tijela više temperature jednaka količini topline koju tijelo više
+  temperature preda tijelu niže temperature.
+
+19. **Opis kalorimetra**
+
+  **Kalorimetar** je dobro izolirana posuda čije su stijenke ispunjene toplinskim
+  izolatorom koji sprječava toplinsko vođenje, odnosno izmjenu topline sadržaja
+  kalorimetra s okolinom. Najčešći izolator u stijenkama kalorimetra jest zrak.
+
+  .. image:: img/kalorimetar.jpg
+
+
 20. Vrste agregatnih stanja i promjena agregatnih stanja
+
+  .. image:: img/agregacijska_stanja.jpg
+
+
 21. Promjena agregatnih stanja na primjeru: led-voda-vodena para
+
+  .. image:: img/promjena_stanja.jpg
+
+
 22. Ovisnost temperature taljenja o visokom tlaku
 23. Ovisnost temperature taljenja o čistoći tvari
 24. Latentna toplina taljenja i isparavanja
@@ -265,6 +325,6 @@ Toplina i termodinamika
 41. Definiraj korisnost (djelotvornost) toplinskog stroja
 42. Opiši rashladni stroj i toplinsku pumpu
 43. Opiši Carnotov kružni proces / nacrtati u p-V grafu
-44. II. zakon termodinamike; perpetuum mobile I. i II. vrste
+44. Kako glasi II. zakon termodinamike; perpetuum mobile I. i II. vrste
 45. Molekularno - kinetička teorija plinova / model idealnog plina
 46. Što je idealni plin?
