@@ -112,7 +112,13 @@ Toplina i termodinamika
 
     :math:`p_1*V_1=p_2*V_2`
 
-  P ~` :math:`\frac {1}{V}`
+  P ~ :math:`\frac {1}{V}`
+
+  .. image:: img/boyle_mariotte.jpg
+  *Jednostavan uređaj za opažanje izotermnih promjena stanja plina*
+
+  .. image:: img/izoterma.png
+
 
 9. Charlesov zakon + jednadžbe
 10. Gay - Lussacov zakon + jednadžbe
