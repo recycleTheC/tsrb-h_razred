@@ -30,8 +30,8 @@ Toplina i termodinamika
 
   .. image:: img/linearno_rastezanje.png
 
-|
-
+  |
+  
   :math:`\beta` -> koeficijent linearnog rastezanja :math:`[K^-1][°C^-1]`
 
   :math:`\Delta{l}=l_0*\beta*\Delta{T}`
@@ -46,7 +46,7 @@ Toplina i termodinamika
 
   .. image:: img/volumno_rastezanje.jpg
 
-|
+  |
 
   :math:`l^3=l_0^3*(1+\beta*\Delta{T})^3`
 
