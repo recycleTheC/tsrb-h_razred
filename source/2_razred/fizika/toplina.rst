@@ -236,7 +236,7 @@ Toplina i termodinamika
   **Unutarnja energija** je zbroj kinetičkih energija toplinskih gibanja čestica
   i svih potencijalnih energija njihova međudjelovanja.
 
-  :math:`U=$$\sum_{i=1}^n E_{ki} + \sum_{i=1}^n E_{pi}`
+  :math:`U=\sum_{i=1}^n E_{ki} + \sum_{i=1}^n E_{pi}`
 
   :math:`U=\frac {3}{2}n*R*T`
 
