@@ -202,6 +202,8 @@ Toplina i termodinamika
 
      :math:`\frac {p_1*V_1}{T_1}=\frac {p_2*V_2}{T_1}|\text{krati se konstantna veličina}`
 
+  |
+
   2) :math:`p*V=n*R*T`
 
      :math:`n` - **množina/količina tvari**
@@ -217,6 +219,8 @@ Toplina i termodinamika
      :math:`R` - **opća plinska konstanta**
 
       :math:`R=8,314 \frac {J}{K*mol}`
+
+  |
 
   3) :math:`p*V=\frac {N}{N_A}*R*T`
 
