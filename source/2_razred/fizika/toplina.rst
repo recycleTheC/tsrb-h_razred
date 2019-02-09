@@ -110,7 +110,9 @@ Toplina i termodinamika
   [**T=konst.** => **IZOTERMNA PROMJENA**]
 
   :math:`\frac {p_1*V_1}{T}=\frac {p_2*V_2}{T}|:T`
+
 |
+
   .. admonition:: **Boyle - Mariotteov zakon**
 
     :math:`p_1*V_1=p_2*V_2`
