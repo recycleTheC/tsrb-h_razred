@@ -199,7 +199,8 @@ Toplina i termodinamika
 14. Jednadžbe stanja idealnog toplina
 
   1) :math:`\frac {p*V}{T}=konst.`
-     :math:`\frac {p_1*V_1}{T_1}=\frac {p_2*V_2}{T_1}|krati se konstantna veličina`
+
+     :math:`\frac {p_1*V_1}{T_1}=\frac {p_2*V_2}{T_1}|\text{krati se konstantna veličina}`
 
   2) :math:`p*V=n*R*T`
 
@@ -208,7 +209,9 @@ Toplina i termodinamika
       :math:`n=\frac {m}{M}=\frac {N}{N_A}=\frac {V}{V_n}`
 
       :math:`N` - **broj čestica**
-      :math:`N_A = 6,022*10^23 mol^-1` - **Avogardov broj**
+
+      :math:`N_A = 6,022*10^23 mol^(-1)` - **Avogardov broj**
+
       :math:`V_n` - **molarni volumen**
 
      :math:`R` - **opća plinska konstanta**
