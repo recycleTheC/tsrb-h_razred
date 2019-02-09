@@ -31,7 +31,7 @@ Toplina i termodinamika
   .. image:: img/linearno_rastezanje.png
 
   |
-  
+
   :math:`\beta` -> koeficijent linearnog rastezanja :math:`[K^-1][°C^-1]`
 
   :math:`\Delta{l}=l_0*\beta*\Delta{T}`
@@ -119,7 +119,7 @@ Toplina i termodinamika
 
     :math:`p_1*V_1=p_2*V_2`
 
-    **Ako se plinu izotermno (*uz stalnu temperaturu*) promjeni stanje, tada je
+    **Ako se plinu izotermno (uz stalnu temperaturu) promjeni stanje, tada je
     umnožak tlaka i obujma nakon promjene jednak umnošku tlaka i obujma prije promjene.**
 
   P ~ :math:`\frac {1}{V}`
@@ -141,9 +141,14 @@ Toplina i termodinamika
 
   :math:`\frac {p_1*V}{T_1}=\frac {p_2*V}{T_2}|:V`
 
-  :math:`\frac {p_1}{T_1}=\frac {p_2}{T_2}`
+  .. admonition:: **Charlesov zakon**
 
-  P ~ T
+    :math:`\frac {p_1}{T_1}=\frac {p_2}{T_2}`
+
+    **Ako se plinu izhorno (uz stalni volumen) promjeni stanje, tada je
+    kvocijent tlaka i termodinamičke temperature stalan.**
+
+  p ~ T
 
   .. image:: img/izohorna1.png
 
@@ -157,8 +162,27 @@ Toplina i termodinamika
 
     Pravac koji prikazuje izohornu promjenu stanja plina naziva se **izohora**.
 
+10. **Gay - Lussacov zakon + jednadžbe**
+  [**p=konst.** => **IZOBARNA PROMJENA**]
 
-10. Gay - Lussacov zakon + jednadžbe
+  :math:`\frac {p_1*V}{T_1}=\frac {p_2*V}{T_2}|:p`
+
+  .. admonition:: **Gay - Lussacov zakon**
+
+    :math:`\frac {V_1}{T_1}=\frac {V_2}{T_2}`
+
+    **Ako se plinu izobarno (uz stalni tlak) promjeni stanje, tada je
+    kvocijent volumena i termodinamičke temperature stalan.**
+
+  V ~ T
+
+  .. image:: img/izobarna1.png
+  *Ovisnot volumena plina o temperaturi uz konstantan tlak (V,T dijagram)*
+  |
+  .. image:: img/izobarna2.png
+  *Ovisnot volumena plina o temperaturi uz konstantan tlak (V,t dijagram)*  
+
+
 11. Kojim veličinama opisujemo stanje plina?
 12. Grafički prikaz izobarne, izohorne i izotermne promjene u koordinatnom sustavu
 13. Zašto termodinamičku temperaturu temperaturu zovemo apsolutnom?
