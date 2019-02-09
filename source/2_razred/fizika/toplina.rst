@@ -39,7 +39,7 @@ Toplina i termodinamika
 .. admonition:: **Volumo rastezanje**
 
   .. image:: img/volumno_rastezanje.jpg
-  
+
 
   :math:`l^3=l_0^3*(1+\beta*\Delta{T})^3`
 
@@ -103,7 +103,16 @@ Toplina i termodinamika
 
     :math:`\rho=\frac {\rho_0}{1+\alpha*\Delta{T}}`
 
-8. Boyle - Mariotteov zakon + jednadžbe
+8. **Boyle - Mariotteov zakon + jednadžbe**
+  [**T=konst.** => **IZOTERMNA PROMJENA**]
+
+  :math:`\frac {p_1*V_1}{T}=\frac {p_2*V_2}{T}|:T`
+
+  .. admonition:: **Boyle - Mariotteov zakon**
+    :math:`\frac {p_1*V_1=p_2*V_2}`
+
+  :math:`P~\frac {1}{V}`
+
 9. Charlesov zakon + jednadžbe
 10. Gay - Lussacov zakon + jednadžbe
 11. Kojim veličinama opisujemo stanje plina?
