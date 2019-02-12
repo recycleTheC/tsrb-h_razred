@@ -168,6 +168,8 @@ Toplina i termodinamika
 
     Pravac koji prikazuje izohornu promjenu stanja plina naziva se **izohora**.
 
+  .. image:: img/izohora.png
+
 
 10. **Gay - Lussacov zakon + jednadžbe**
   [**p=konst.** => **IZOBARNA PROMJENA**]
@@ -190,6 +192,8 @@ Toplina i termodinamika
 
   .. image:: img/izobarna2.png
   *Ovisnot volumena plina o temperaturi uz konstantan tlak (V,t dijagram)*
+
+  .. image:: img/izobare.png
 
 
 11. **Kojim veličinama opisujemo stanje plina?**
