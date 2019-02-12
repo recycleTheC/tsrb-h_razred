@@ -9,8 +9,9 @@ Toplina i termodinamika
 
 1. **Definicije temperature**
 
-  **Temperatura je stanje zagrijanosti nekog tijela.
-  Temperatura je mjera za srednju kinetičku energiju toplinskog gibanja čestica tijela**
+  **Temperatura je stanje zagrijanosti nekog tijela.**
+
+  **Temperatura je mjera za srednju kinetičku energiju toplinskog gibanja čestica tijela.**
 
   :math:`\bar{E_k} \text~ T`
 
@@ -102,9 +103,7 @@ Toplina i termodinamika
 
 7. **Promjena gustoće s temperaturom; izvod jednadžbe**
 
-  :math:`\rho=\frac  {m}{V}`
-
-  :math:`V=\frac  {m}{\rho}`
+  :math:`\rho=\frac  {m}{V}` ==> :math:`V=\frac  {m}{\rho}`
 
   :math:`V=V_0*(1+\alpha*\Delta{T})`
 
@@ -142,6 +141,7 @@ Toplina i termodinamika
     Linija (*hiperbola*) koji prikazuje ovisnost tlaka plina o volumenu plina pri konstantnoj
     temperaturi naziva se **izoterma**.
 
+
 9. **Charlesov zakon + jednadžbe**
   [**V=konst.** => **IZOHORNA PROMJENA**]
 
@@ -167,6 +167,7 @@ Toplina i termodinamika
   .. admonition:: **Izohora**
 
     Pravac koji prikazuje izohornu promjenu stanja plina naziva se **izohora**.
+
 
 10. **Gay - Lussacov zakon + jednadžbe**
   [**p=konst.** => **IZOBARNA PROMJENA**]
@@ -298,13 +299,14 @@ Toplina i termodinamika
 
   .. image:: img/kalorimetar.jpg
 
+  *Kalorimetar na crtežu se razlikuje od kalorimetra korištenog na laboratorijskim vježbama!*
 
-20. Vrste agregatnih stanja i promjena agregatnih stanja
+20. **Vrste agregatnih stanja i promjena agregatnih stanja**
 
   .. image:: img/agregacijska_stanja.jpg
 
 
-21. Promjena agregatnih stanja na primjeru: led-voda-vodena para
+21. **Promjena agregatnih stanja na primjeru: led-voda-vodena para**
 
   .. image:: img/promjena_stanja.jpg
 
@@ -315,10 +317,12 @@ Toplina i termodinamika
   vanjskog tlaka, dok se tvarima koje se pri taljenju *skupljaju (npr. led)*
   povećanjem vanjskog tlaka snižava temperatura taljenja.
 
-  .. admonition:: **Primjer: klizaljke i led**
+  .. admonition:: Primjer: **Klizaljke i led**
 
-     Led se pod klizaljkama (visokim tlakom) rastali i pri nižoj temperaturi, a
+     Led se pod klizaljkama (*visokim tlakom) rastali i pri nižoj temperaturi, a
      nastala se voda zaledi odmah nakon prolaska klizaljki.
+
+     *[velika sila na malu površinu]
 
 23. **Ovisnost temperature taljenja o čistoći tvari**
 
@@ -340,7 +344,7 @@ Toplina i termodinamika
     Vrelište (temperatura vrenja) je temperatura na kojoj tvar (**voda**) iz tekućeg agregacijskog
     stanja prelazi u plinovito agregacijsko stanje.
 
-26. Ovisnost vrelišta o vanjskom tlaku
+26. **Ovisnost vrelišta o vanjskom tlaku**
 
   Temperatura vrenja ovisi o vanjskom tlaku na tekućinu.
 
@@ -356,7 +360,7 @@ Toplina i termodinamika
     višoj od 100°C.
 
 
-27. Ovisnost vrelišta o čistoći tvari
+27. **Ovisnost vrelišta o čistoći tvari**
 
   Primjese dodane u tekućinu mogu povećati ili smanjiti temperaturu vrenja tekućine.
 
