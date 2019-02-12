@@ -370,7 +370,7 @@ Toplina i termodinamika
 
   S povećanjem tlaka raste i vrelište tekućine. Snižavanjem tlaka snizuje se i
   vrelište tekućine. Iz tog razloga se na većim nadmorskim visinama (gdje je tlak
-   niži) hrana u otvorenom loncu kuha sporije.
+  niži) hrana u otvorenom loncu kuha sporije.
 
   .. admonition:: Primjer: **Ekspresni lonac**
 
