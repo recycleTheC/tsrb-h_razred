@@ -172,6 +172,7 @@ Toplina i termodinamika
 
 
 10. **Gay - Lussacov zakon + jednadžbe**
+
   [**p=konst.** => **IZOBARNA PROMJENA**]
 
   :math:`\frac {p_1*V}{T_1}=\frac {p_2*V}{T_2}|:p`
@@ -204,12 +205,12 @@ Toplina i termodinamika
 
     /
 
-13. Zašto termodinamičku temperaturu zovemo apsolutnom?
+13. **Zašto termodinamičku temperaturu zovemo apsolutnom?**
 
   Termodinamičku temperatutu nazivamo apsolutnom jer na temperaturi od 0 K
   (*apsolutna nula*) gotovo nema termičkoga gibanja čestica.
 
-14. Jednadžbe stanja idealnog toplina
+14. **Jednadžbe stanja idealnog toplina**
 
   1) :math:`\frac {p*V}{T}=konst.`
 
@@ -334,7 +335,22 @@ Toplina i termodinamika
   Talište legure je niže od temperature na kojoj se tali njezina komponenta s
   najnižim talištem.
 
-24. Latentna toplina taljenja i isparavanja
+24. **Latentna toplina taljenja i isparavanja**
+
+  .. admonition:: **Latentna toplina taljenja**
+
+    Latentna (specifična) toplina taljenja je količina topline koju mora primiti
+    kilogram čvrste tvari da bi prešao u tekuće stanje na temperaturi taljenja.
+
+    :math::`\lamda=\frac {Q_t}{m}` [:math::`\frac {J}{kg}`]
+
+  .. admonition:: **Latentna toplina isparavanja**
+
+    Latentna (specifična) toplina isparavanja je količina topline koju je potrebno
+    utrošiti da bi kilogram tekućine prešao u paru na temperaturi vrenja.
+
+    :math::`r=\frac {Q_i}{m}` [:math::`\frac {J}{kg}`]
+
 25. **Talište / Vrelište**
 
   .. admonition:: **Talište**
