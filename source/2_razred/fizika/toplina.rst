@@ -4,7 +4,7 @@ Toplina i termodinamika
 .. admonition:: Autorova uputa za učenje
 
     **Učiti s razumijevanjem! :)**
-    
+
     Koristiti više izvora za učenje: **vlastite bilješke, udžbenik...**
 
 1. **Definicije temperature**
@@ -309,12 +309,63 @@ Toplina i termodinamika
   .. image:: img/promjena_stanja.jpg
 
 
-22. Ovisnost temperature taljenja o visokom tlaku
-23. Ovisnost temperature taljenja o čistoći tvari
+22. **Ovisnost temperature taljenja o visokom tlaku**
+
+  Tvarima koje se pri taljenju *šire* temperatura taljenja raste s povećanjem
+  vanjskog tlaka, dok se tvarima koje se pri taljenju *skupljaju (npr. led)*
+  povećanjem vanjskog tlaka snižava temperatura taljenja.
+
+  .. admonition:: **Primjer: klizaljke i led**
+
+     Led se pod klizaljkama (visokim tlakom) rastali i pri nižoj temperaturi, a
+     nastala se voda zaledi odmah nakon prolaska klizaljki.
+
+23. **Ovisnost temperature taljenja o čistoći tvari**
+
+  Temperatura taljenja tvari snižava se dodavanjem primjesa.
+  Talište legure je niže od temperature na kojoj se tali njezina komponenta s
+  najnižim talištem.
+
 24. Latentna toplina taljenja i isparavanja
-25. Talište / Vrelište
+25. **Talište / Vrelište**
+
+  .. admonition:: **Talište**
+
+    Talište (temperatura taljenja) je temperatura na kojoj tvar (**voda**) iz čvrstog agregacijskog
+    stanja prelazi u tekuće agregacijsko stanje.
+
+
+  .. admonition:: **Vrelište**
+
+    Vrelište (temperatura vrenja) je temperatura na kojoj tvar (**voda**) iz tekućeg agregacijskog
+    stanja prelazi u plinovito agregacijsko stanje.
+
 26. Ovisnost vrelišta o vanjskom tlaku
+
+  Temperatura vrenja ovisi o vanjskom tlaku na tekućinu.
+
+  S povećanjem tlaka raste i vrelište tekućine. Snižavanjem tlaka snizuje se i
+  vrelište tekućine. Iz tog razloga se na većim nadmorskim visinama (gdje je tlak
+   niži) hrana u otvorenom loncu kuha sporije.
+
+  .. admonition:: Primjer: **Ekspresni lonac**
+
+    Voda pri normiranom atmorsferskom tlaku vrije na temperaturi 100°C i to je
+    najviša temperatura što je voda može imati pri tom tlaku.
+    U ekspresnom loncu, gdje je tlak nekoliko puta veći, voda vrije na temperaturi
+    višoj od 100°C.
+
+
 27. Ovisnost vrelišta o čistoći tvari
+
+  Primjese dodane u tekućinu mogu povećati ili smanjiti temperaturu vrenja tekućine.
+
+  .. admonition:: Primjer: **Dodavanje soli u vodu**
+
+    Hrana se nešto brže kuha u slanoj vodi nego u čistoj. Dodatak soli povećava
+    temperaturu vrenja vode.
+
+|
 
 28. Kako računamo rad pri izobarnom/izotermnom/izohornom procesu?
 29. Čime je grafički prikazan rad plina u p-V koordinatnom sustavu?
@@ -333,5 +384,24 @@ Toplina i termodinamika
 42. Opiši rashladni stroj i toplinsku pumpu
 43. Opiši Carnotov kružni proces / nacrtati u p-V grafu
 44. Kako glasi II. zakon termodinamike; perpetuum mobile I. i II. vrste
-45. Molekularno - kinetička teorija plinova / model idealnog plina
-46. Što je idealni plin?
+
+45. **Molekularno - kinetička teorija plinova / model idealnog plina**
+
+  .. admonition:: **Model idealnog plina**
+
+    1. Čestice plina imaju kinetičku energiju, a potencijalnu energiju zanemarujemo.
+
+      :math:`\displaystyle{U=\sum_{i=1}^n E_{ki}}`
+
+    2. Plin je jako rijedak => volumen plina je zanemarivo manji od volumena posude.
+
+    3. Sudari čestica plina su savršeno elastični.
+
+    4. Vrijedi Newtonoska mehanika
+
+
+46. **Što je idealni plin?** **[NEPROVJEREN SADRŽAJ]**
+
+  Vrlo razrijeđeni plinovi ili plinovi kojima su molekule na vrlo velikim razmacima,
+  ne sudaraju se, a pritom su i dimenzije samih molekula zanemarive u usporedbi s njihovim udaljenostima.
+  Plin s takvim karakteristikama nazivamo idealni plin.
