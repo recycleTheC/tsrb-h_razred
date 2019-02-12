@@ -342,14 +342,14 @@ Toplina i termodinamika
     Latentna (specifična) toplina taljenja je količina topline koju mora primiti
     kilogram čvrste tvari da bi prešao u tekuće stanje na temperaturi taljenja.
 
-    :math::`\lamda=\frac {Q_t}{m}` [:math::`\frac {J}{kg}`]
+    :math:`\lamda=\frac {Q_t}{m}` [:math::`\frac {J}{kg}`]
 
   .. admonition:: **Latentna toplina isparavanja**
 
     Latentna (specifična) toplina isparavanja je količina topline koju je potrebno
     utrošiti da bi kilogram tekućine prešao u paru na temperaturi vrenja.
 
-    :math::`r=\frac {Q_i}{m}` [:math::`\frac {J}{kg}`]
+    :math:`r=\frac {Q_i}{m}` [:math::`\frac {J}{kg}`]
 
 25. **Talište / Vrelište**
 
