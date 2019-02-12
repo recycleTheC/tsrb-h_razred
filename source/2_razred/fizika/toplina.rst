@@ -4,7 +4,8 @@ Toplina i termodinamika
 .. admonition:: Autorova uputa za učenje
 
     **Učiti s razumijevanjem! :)**
-    Koristite više izvora za učenje: **vlastite bilješke, udžbenik**
+    
+    Koristiti više izvora za učenje: **vlastite bilješke, udžbenik...**
 
 1. **Definicije temperature**
 
