@@ -87,8 +87,8 @@ Toplina i termodinamika
   **Anomalija vode** je nepravilnost u promjeni obujma s temperaturom.
 
   Gustoća vode je najveća pri 4°C. Zbog anomalije, voda se počinje lediti od
-  površine lediti od površine. Naime, u dodiru sa zrakom površinska se voda hladi
-  i postaje gušća te se spušta, a na površinu dolazi toplija voda. To traje sve dok
+  površine. Naime, u dodiru sa zrakom površinska se voda hladi i postaje gušća
+  te se spušta, a na površinu dolazi toplija voda. To traje sve dok
   se površinska voda ne ohladi na 4°C. Hlađenjem površinske vode ispod 4°C, njezina
   gustoća postaje manja od gustoće toplije ispod nje. Zato voda s temperaturom nižom
   od 4°C ostaje na površini gdje će se daljnjim hlađenjem i zalediti.
@@ -207,7 +207,7 @@ Toplina i termodinamika
 
 13. **Zašto termodinamičku temperaturu zovemo apsolutnom?**
 
-  Termodinamičku temperatutu nazivamo apsolutnom jer na temperaturi od 0 K
+  Termodinamičku temperaturu nazivamo apsolutnom jer na temperaturi od 0 K
   (*apsolutna nula*) gotovo nema termičkoga gibanja čestica.
 
 14. **Jednadžbe stanja idealnog toplina**
