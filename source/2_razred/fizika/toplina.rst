@@ -226,7 +226,7 @@ Toplina i termodinamika
 
       :math:`N` - **broj čestica**
 
-      :math:`N_A = 6,022*10^{23} mol^{-1}` - **Avogardov broj**
+      :math:`N_A = 6,022*10^{23} mol^{-1}` - **Avogadrov broj**
 
       :math:`V_n` - **molarni volumen**
 
