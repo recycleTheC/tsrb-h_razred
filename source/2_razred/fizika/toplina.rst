@@ -393,7 +393,7 @@ Toplina i termodinamika
 
 28. **Kako računamo rad pri izobarnom/izotermnom/izohornom procesu?**
 
-  :math:`W=p*\Delta{V}` ili :math:`W=p*(V_2-V-1)`
+  :math:`W=p*\Delta{V}` ili :math:`W=p*(V_2-V_1)`
 
 29. **Čime je grafički prikazan rad plina u p-V koordinatnom sustavu?**
 
@@ -440,10 +440,17 @@ Toplina i termodinamika
 
 34. **Adijabatski proces**
 
-  Adijabatski proces je proces u kojem plin ne izmjenjuje toplinu s okolinom.
+  .. admonition:: **Termodinamički procesi**
 
-  Adijabatske procese (ekspanziju i kompresiju) prikazujemo u p-V koordinatnom
-  sustavu. Graf nazivamo **adijabata**.
+    Termodinamički proces je prijelaz termodinamičkog sustava iz jednog stanja
+    u drugo.
+
+  .. admonition:: **Adijabatski proces**
+
+    Adijabatski proces je proces u kojem plin ne izmjenjuje toplinu s okolinom.
+
+    Adijabatske procese (ekspanziju i kompresiju) prikazujemo u p-V koordinatnom
+    sustavu. Graf nazivamo **adijabata**.
 
 35. Kružni proces
 36. Rad u kružnom procesu
@@ -468,7 +475,7 @@ Toplina i termodinamika
 
     3. Sudari čestica plina su savršeno elastični.
 
-    4. Vrijedi Newtonoska mehanika
+    4. Vrijedi Newtonovska mehanika
 
 
 46. **Što je idealni plin?** **[NEPROVJEREN SADRŽAJ]**
