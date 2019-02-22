@@ -396,7 +396,28 @@ Toplina i termodinamika
 30. Kako glasi I. zakon termodinamike?
 31. Što je termodinamika?
 32. Što je termodinamički sustav?
-33. Dogovoreni predznaci za ΔU, Q i W
+33. **Dogovoreni predznaci za ΔU, Q i W**
+
+  +------------------------+----------------------------------+
+  |      VRSTA PROCESA     | PROMEJNA TERMODINAMIČKE VELIČINE |
+  +                        +----------------------------------+
+  |                        |     W     |     Q     |    ΔU    |
+  +------------------------+-----------+-----------+----------+
+  |  izotermna kompresija  |    < 0    |    < 0    |    = 0   |
+  +------------------------+-----------+-----------+----------+
+  |    izohorno hlađenje   |    = 0    |    < 0    |    < 0   |
+  +------------------------+-----------+-----------+----------+
+  |   izobarna ekspanzija  |    > 0    |    > 0    |    > 0   |
+  +------------------------+-----------+-----------+----------+
+  |  izotermna ekspanzija  |    > 0    |    > 0    |    = 0   |
+  +------------------------+-----------+-----------+----------+
+  |   izobarna kompresija  |    < 0    |    < 0    |    < 0   |
+  +------------------------+-----------+-----------+----------+
+  | adijabatska kompresija |    < 0    |    = 0    |    > 0   |
+  +------------------------+-----------+-----------+----------+
+  | adijabatska ekspanzija |    > 0    |    = 0    |    < 0   |
+  +------------------------+-----------+-----------+----------+
+
 34. Adijabatski proces
 35. Kružni proces
 36. Rad u kružnom procesu
