@@ -389,7 +389,6 @@ Toplina i termodinamika
     Hrana se nešto brže kuha u slanoj vodi nego u čistoj. Dodatak soli povećava
     temperaturu vrenja vode.
 
-|
 
 28. **Kako računamo rad pri izobarnom/izotermnom/izohornom procesu?**
 
@@ -398,6 +397,9 @@ Toplina i termodinamika
 29. **Čime je grafički prikazan rad plina u p-V koordinatnom sustavu?**
 
   Rad plina je grafički prikazan površinom ispod grafa u p-V koordinatnom sustavu.
+
+  .. image:: img/W_p-V.jpg
+
 
 30. **Kako glasi I. zakon termodinamike?**
 
