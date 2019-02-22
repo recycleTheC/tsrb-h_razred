@@ -391,16 +391,36 @@ Toplina i termodinamika
 
 |
 
-28. Kako računamo rad pri izobarnom/izotermnom/izohornom procesu?
-29. Čime je grafički prikazan rad plina u p-V koordinatnom sustavu?
-30. Kako glasi I. zakon termodinamike?
-31. Što je termodinamika?
-32. Što je termodinamički sustav?
+28. **Kako računamo rad pri izobarnom/izotermnom/izohornom procesu?**
+
+  :math:`W=p*\Delta{V}` ili :math:`W=p*(V_2-V-1)`
+
+29. **Čime je grafički prikazan rad plina u p-V koordinatnom sustavu?**
+
+  Rad plina je grafički prikazan površinom ispod grafa u p-V koordinatnom sustavu.
+
+30. **Kako glasi I. zakon termodinamike?**
+
+  .. admonition:: I. zakon termodinamike
+
+    Količina topline koju plin primi jednaka je zbroju promjene unutarnje energije
+    plina i rada što ga plin obavi.
+
+    :math:`Q=W+\Delta{U}`
+
+31. **Što je termodinamika?**
+
+  Termodinamika je dio fizike u kojem istražujemo pretvorbu topline u mehanički rad.
+
+32. **Što je termodinamički sustav?**
+
+  Termodinamički sustav je bilo koji skup čestica u bilo kojem agregatnom stanju.
+
 33. **Dogovoreni predznaci za ΔU, Q i W**
 
   +------------------------+----------------------------------+
-  |      VRSTA PROCESA     | PROMEJNA TERMODINAMIČKE VELIČINE |
-  +                        +----------------------------------+
+  |      VRSTA PROCESA     | PROMJENA TERMODINAMIČKE VELIČINE |
+  +                        +-----------+-----------+----------+
   |                        |     W     |     Q     |    ΔU    |
   +------------------------+-----------+-----------+----------+
   |  izotermna kompresija  |    < 0    |    < 0    |    = 0   |
@@ -418,7 +438,13 @@ Toplina i termodinamika
   | adijabatska ekspanzija |    > 0    |    = 0    |    < 0   |
   +------------------------+-----------+-----------+----------+
 
-34. Adijabatski proces
+34. **Adijabatski proces**
+
+  Adijabatski proces je proces u kojem plin ne izmjenjuje toplinu s okolinom.
+
+  Adijabatske procese (ekspanziju i kompresiju) prikazujemo u p-V koordinatnom
+  sustavu. Graf nazivamo **adijabata**.
+
 35. Kružni proces
 36. Rad u kružnom procesu
 37. Čime je predočen ukupni rad u kružnom procesu?
