@@ -204,7 +204,7 @@ Toplina i termodinamika
 12. Grafički prikaz izobarne, izohorne i izotermne promjene u koordinatnom sustavu
 |
     /
-|
+
 13. **Zašto termodinamičku temperaturu zovemo apsolutnom?**
 
   Termodinamičku temperaturu nazivamo apsolutnom jer na temperaturi od 0 K
@@ -466,7 +466,9 @@ Toplina i termodinamika
 38. **Kada je ukupni rad pozitivan, kada negativan, a kada jednak nuli?**
 
   W > 0 => rad plina je veći od rada vanjske sile (kružni proces teče u smjeru kazaljke na satu)
+
   W < 0 => rad plina je manji od rada vanjske sile (kružni proces teče u smjeru suprotno od kazaljke na satu)
+  
   W = 0 => plin se iz stanja B vraća u početno stanje A istim putem kojim je iz stanja A došao u stanje B (slika)
 
   .. image:: img/kruzni_proces.jpg
