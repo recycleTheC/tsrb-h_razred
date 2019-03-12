@@ -267,7 +267,7 @@ Toplina i termodinamika
 
 17. **Specifični toplinski kapacitet i toplinski kapacitet**
 
-  **Specifični toplisnki kapacitet (c)** je veličina koja pokazuje koliku količinu topline
+  **Specifični toplinski kapacitet (c)** je veličina koja pokazuje koliku količinu topline
   izmjeni tijelo mase *1 kg* pri promjeni temperature za *1 K* (ili *1°C*).
 
     :math:`c=\frac {Q}{m(t_2-t_1)}`
