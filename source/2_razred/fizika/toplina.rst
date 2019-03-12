@@ -175,7 +175,7 @@ Toplina i termodinamika
 
   [**p=konst.** => **IZOBARNA PROMJENA**]
 
-  :math:`\frac {p_1*V}{T_1}=\frac {p_2*V}{T_2}|:p`
+  :math:`\frac {p_1*V_1}{T_1}=\frac {p_2*V_2}{T_2}|:p`
 
   .. admonition:: **Gay - Lussacov zakon**
 
@@ -202,9 +202,9 @@ Toplina i termodinamika
   Stanje plina opisujemo **tlakom, volumenom i termodinamičkom temperaturom.**
 
 12. Grafički prikaz izobarne, izohorne i izotermne promjene u koordinatnom sustavu
-
+|
     /
-
+|
 13. **Zašto termodinamičku temperaturu zovemo apsolutnom?**
 
   Termodinamičku temperaturu nazivamo apsolutnom jer na temperaturi od 0 K
@@ -214,7 +214,7 @@ Toplina i termodinamika
 
   1) :math:`\frac {p*V}{T}=konst.`
 
-     :math:`\frac {p_1*V_1}{T_1}=\frac {p_2*V_2}{T_1}|\text{krati se konstantna veličina}`
+     :math:`\frac {p_1*V_1}{T_1}=\frac {p_2*V_2}{T_2}|\text{krati se konstantna veličina}`
 
   |
 
@@ -454,10 +454,24 @@ Toplina i termodinamika
     Adijabatske procese (ekspanziju i kompresiju) prikazujemo u p-V koordinatnom
     sustavu. Graf nazivamo **adijabata**.
 
-35. Kružni proces
+35. **Kružni proces**
+
+  Proces u kojem se plin vraća u početno stanje nazivmo **kružni proces**.
+
 36. Rad u kružnom procesu
-37. Čime je predočen ukupni rad u kružnom procesu?
-38. Kada je ukupni rad pozitivan, kada negativan, a kada jednak nuli?
+37. **Čime je predočen ukupni rad u kružnom procesu?**
+
+  Rad je predočen **površinom** ispod grafa u **p-V koordinatnom sustavu**.
+
+38. **Kada je ukupni rad pozitivan, kada negativan, a kada jednak nuli?**
+
+  W > 0 => rad plina je veći od rada vanjske sile (kružni proces teče u smjeru kazaljke na satu)
+  W < 0 => rad plina je manji od rada vanjske sile (kružni proces teče u smjeru suprotno od kazaljke na satu)
+  W = 0 => plin se iz stanja B vraća u početno stanje A istim putem kojim je iz stanja A došao u stanje B (slika)
+
+  .. image:: img/kruzni_proces.jpg
+
+
 39. Obavljeni, uloženi i dobiveni rad
 40. Što je toplinski stroj? (dijelovi)
 41. Definiraj korisnost (djelotvornost) toplinskog stroja
