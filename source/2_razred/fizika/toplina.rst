@@ -449,27 +449,32 @@ Toplina i termodinamika
 
   .. admonition:: **Adijabatski proces**
 
-    Adijabatski proces je proces u kojem plin ne izmjenjuje toplinu s okolinom.
+    **Adijabatski proces** je proces u kojem plin ne izmjenjuje toplinu s okolinom.
 
     Adijabatske procese (ekspanziju i kompresiju) prikazujemo u p-V koordinatnom
     sustavu. Graf nazivamo **adijabata**.
+
+    .. image:: img/adijabatski_proces.jpg
+
 
 35. **Kružni proces**
 
   Proces u kojem se plin vraća u početno stanje nazivmo **kružni proces**.
 
-36. Rad u kružnom procesu
+36. **Rad u kružnom procesu**
+
+
 37. **Čime je predočen ukupni rad u kružnom procesu?**
 
   Rad je predočen **površinom** ispod grafa u **p-V koordinatnom sustavu**.
 
 38. **Kada je ukupni rad pozitivan, kada negativan, a kada jednak nuli?**
 
-  W > 0 => rad plina je veći od rada vanjske sile (kružni proces teče u smjeru kazaljke na satu)
+  **W > 0** => rad plina je veći od rada vanjske sile (kružni proces teče u smjeru kazaljke na satu)
 
-  W < 0 => rad plina je manji od rada vanjske sile (kružni proces teče u smjeru suprotno od kazaljke na satu)
-  
-  W = 0 => plin se iz stanja B vraća u početno stanje A istim putem kojim je iz stanja A došao u stanje B (slika)
+  **W < 0** => rad plina je manji od rada vanjske sile (kružni proces teče u smjeru suprotno od kazaljke na satu)
+
+  **W = 0** => plin se iz stanja B vraća u početno stanje A istim putem kojim je iz stanja A došao u stanje B (slika)
 
   .. image:: img/kruzni_proces.jpg
 
