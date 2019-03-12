@@ -138,7 +138,7 @@ Toplina i termodinamika
 
   .. admonition:: **Izoterma**
 
-    Linija (*hiperbola*) koji prikazuje ovisnost tlaka plina o volumenu plina pri konstantnoj
+    Linija (*hiperbola*) koja prikazuje ovisnost tlaka plina o volumenu plina pri konstantnoj
     temperaturi naziva se **izoterma**.
 
 
