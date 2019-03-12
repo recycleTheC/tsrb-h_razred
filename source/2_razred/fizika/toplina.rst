@@ -76,7 +76,7 @@ Toplina i termodinamika
 
 5. **Bimetalna traka**
 
-  **Bimetalna traka** je traka napravljena od 2 međusobno spojne vrpce različitih metala.
+  **Bimetalna traka** je traka napravljena od 2 međusobno spojene vrpce različitih metala.
   Pri određenoj temperaturi je bimetalna vrpca ravna. Pri zagrijavanju savija se na onu stranu
   na kojoj je metal manjeg koeficijenta linearnog rastezanja, a pri hlađenju obratno.
 
