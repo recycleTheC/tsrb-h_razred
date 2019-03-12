@@ -202,8 +202,9 @@ Toplina i termodinamika
   Stanje plina opisujemo **tlakom, volumenom i termodinamičkom temperaturom.**
 
 12. Grafički prikaz izobarne, izohorne i izotermne promjene u koordinatnom sustavu
-|
-    /
+
+  .. image:: img/Picture1.png
+
 
 13. **Zašto termodinamičku temperaturu zovemo apsolutnom?**
 
