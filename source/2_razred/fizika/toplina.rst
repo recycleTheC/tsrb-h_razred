@@ -222,7 +222,7 @@ Toplina i termodinamika
 
   2) :math:`p*V=n*R*T`
 
-     :math:`n` - **množina/količina tvari**
+     :math:`n` - **množina/količina tvari** [mol]
 
       :math:`n=\frac {m}{M}=\frac {N}{N_A}=\frac {V}{V_n}`
 
