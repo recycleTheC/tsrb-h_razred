@@ -68,7 +68,7 @@ Toplina i termodinamika
 
 4. **Definirati koeficijente linearnog i volumnog rastezanja**
 
-  **Koeficijent linearnog rasteanja** je konstanta koja pokazuje za koji se dio
+  **Koeficijent linearnog rastezanja** je konstanta koja pokazuje za koji se dio
   početne duljine promjeni duljina tijela pri **promjeni temperature za 1K (1°C).**
 
   **Koeficijent volumnog rastezanja** je konstanta koja pokazuje za koji se dio
@@ -205,6 +205,7 @@ Toplina i termodinamika
 
   .. image:: img/Picture1.png
 
+  **Pogledati sve grafove u plinskim zakonima!**
 
 13. **Zašto termodinamičku temperaturu zovemo apsolutnom?**
 
