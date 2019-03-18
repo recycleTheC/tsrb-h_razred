@@ -284,7 +284,7 @@ Toplina i termodinamika
   temperature predaje toplinu hladnijem sve do izjednačenja temperatura. Obilježimo li
   mase tijela s :math:`m_1` i :math:`m_2`, njihove specifične toplinske kapacitete s
   :math:`c_1` i :math:`c_2`, temperature prije dodira (miješanja) s :math:`t_1` i :math:`t_2`,
-  a zajedničku temperaturu (temperaturu smjece) s :math:`\tau`, tada je toplina što je topije tijelo preda:
+  a zajedničku temperaturu (temperaturu smjese) s :math:`\tau`, tada je toplina što je topije tijelo preda:
 
   :math:`Q_1=m_1*c_1(t_1-\tau)`
 
