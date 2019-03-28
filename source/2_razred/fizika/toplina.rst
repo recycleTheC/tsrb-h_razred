@@ -513,13 +513,13 @@ Toplina i termodinamika
 
   .. admonition:: **Analiza Carnotova kružnog procesa po fazama**
 
-  .. image:: img/carnotov_kruzni_proces.png
+    .. image:: img/carnotov_kruzni_proces.png
 
-  :math:`1→2` **izotermna ekspanzija** – toplina :math:`Q_1` dovodi se plinu iz toplijeg spremnika pri stalnoj temperaturi :math:`T_1`.
-  Nema promjene unutarnje energije plina, :math:`\Delta{U}=0`. Plin u cilindru obavlja rad koji je jednak dovedenoj
-  toplini, zbog čega se klip podiže, a volumen plina povećava.
+    :math:`1→2` **izotermna ekspanzija** – toplina :math:`Q_1` dovodi se plinu iz toplijeg spremnika pri stalnoj temperaturi :math:`T_1`.
+    Nema promjene unutarnje energije plina, :math:`\Delta{U}=0`. Plin u cilindru obavlja rad koji je jednak dovedenoj
+    toplini, zbog čega se klip podiže, a volumen plina povećava.
 
-  :math:`W_{12}=Q_1`
+    :math:`W_{12}=Q_1`
 
   :math:`2→3` **adijabatska ekspanzija** – plin je termički izoliran pa nema izmjene topline s okolinom, odnosno :math:`Q=0`.
   Rad koji obavi plin jednak je smanjenu unutarnje energije pa se temperatura plina smanjuje na vrijednost
