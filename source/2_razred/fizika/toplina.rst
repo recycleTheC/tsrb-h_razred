@@ -487,7 +487,7 @@ Toplina i termodinamika
 
   :math:`W_uloženi`= rad koji okolina obavi nad plinom
 
-  :math:`W_dobiveni=W_obavljeni-W_uloženi`
+  :math:`W_{dobiveni}=W_{obavljeni}-W_{uloženi}`
 
 40. **Što je toplinski stroj? (dijelovi)**
 
@@ -512,7 +512,7 @@ Toplina i termodinamika
 43. **Opiši Carnotov kružni proces / nacrtati u p-V grafu**
 
   .. image:: img/carnotov_kruzni_proces.png
-
+|
   .. admonition:: **Analiza Carnotova kružnog procesa po fazama**
 
   .. image:: img/carnotov_kruzni_proces2.jpg
@@ -534,7 +534,7 @@ Toplina i termodinamika
   događa se na račun povećanja unutarnje energije plina. Pritom plinu raste temperatura na vrijednost :math:`T_1`.
   Plin se vraća na početne vrijednosti tlaka i volumena i time se ciklus završava.
 
-  .. image:: img/carnotov_kruzni_proces3.jpg  
+  .. image:: img/carnotov_kruzni_proces3.jpg
 
 44. Kako glasi II. zakon termodinamike; perpetuum mobile I. i II. vrste
 
