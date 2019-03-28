@@ -521,28 +521,28 @@ Toplina i termodinamika
 
     :math:`W_{12}=Q_1`
 
-  :math:`2→3` **adijabatska ekspanzija** – plin je termički izoliran pa nema izmjene topline s okolinom, odnosno :math:`Q=0`.
-  Rad koji obavi plin jednak je smanjenu unutarnje energije pa se temperatura plina smanjuje na vrijednost
-  :math:`T_2`. Klip se i dalje podiže, a volumen povećava.
+    :math:`2→3` **adijabatska ekspanzija** – plin je termički izoliran pa nema izmjene topline s okolinom, odnosno :math:`Q=0`.
+    Rad koji obavi plin jednak je smanjenu unutarnje energije pa se temperatura plina smanjuje na vrijednost
+    :math:`T_2`. Klip se i dalje podiže, a volumen povećava.
 
-  :math:`W_{23}=-\Delta{U}`
+    :math:`W_{23}=-\Delta{U}`
 
-  :math:`3→4` **izotermna kompresija** – toplina :math:`Q_2` prenosi se hladnijem spremniku pri stalnoj temperaturi :math:`T_2`.
-  Nema promjene unutarnje energije plina, odnosno :math:`\Delta{U}=0`.
-  Na plinu se obavlja rad koji je prema prvom zakonu termodinamike po iznosu jednak otpuštenoj toplini :math:`Q_2`.
-  Zbog obavljanja toga rada, klip se spušta, a volumen se plina u cilindru smanjuje.
+    :math:`3→4` **izotermna kompresija** – toplina :math:`Q_2` prenosi se hladnijem spremniku pri stalnoj temperaturi :math:`T_2`.
+    Nema promjene unutarnje energije plina, odnosno :math:`\Delta{U}=0`.
+    Na plinu se obavlja rad koji je prema prvom zakonu termodinamike po iznosu jednak otpuštenoj toplini :math:`Q_2`.
+    Zbog obavljanja toga rada, klip se spušta, a volumen se plina u cilindru smanjuje.
 
-  :math:`W_{34}=-Q_2`
+    :math:`W_{34}=-Q_2`
 
-  :math:`4→1` adijabatska kompresija – nema izmjene topline s okolinom, a rad koji se obavlja nad plinom
-  jednak je povećanju unutarnje energije plina. Pritom plinu raste temperatura na vrijednost :math:`T_1`.
-  Plin se vraća na početne vrijednosti tlaka i volumena i time se ciklus završava.
+    :math:`4→1` adijabatska kompresija – nema izmjene topline s okolinom, a rad koji se obavlja nad plinom
+    jednak je povećanju unutarnje energije plina. Pritom plinu raste temperatura na vrijednost :math:`T_1`.
+    Plin se vraća na početne vrijednosti tlaka i volumena i time se ciklus završava.
 
-  :math:`W_{41}=\Delta{U}`
+    :math:`W_{41}=\Delta{U}`
 
-  .. image:: img/carnotov_kruzni_proces2.jpg
-  |
-  .. image:: img/carnotov_kruzni_proces3.jpg
+    .. image:: img/carnotov_kruzni_proces2.jpg
+    |
+    .. image:: img/carnotov_kruzni_proces3.jpg
 
 44. Kako glasi II. zakon termodinamike; perpetuum mobile I. i II. vrste
 
