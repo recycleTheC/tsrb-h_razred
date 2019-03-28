@@ -511,28 +511,34 @@ Toplina i termodinamika
 42. Opiši rashladni stroj i toplinsku pumpu
 43. **Opiši Carnotov kružni proces / nacrtati u p-V grafu**
 
-  .. image:: img/carnotov_kruzni_proces.png
-
-|
-
   .. admonition:: **Analiza Carnotova kružnog procesa po fazama**
 
-  1→2 izotermna ekspanzija – toplina :math:`Q_1` dovodi se plinu iz toplijeg spremnika pri stalnoj temperaturi :math:`T_1`.
+  .. image:: img/carnotov_kruzni_proces.png
+
+  :math:`1→2` **izotermna ekspanzija** – toplina :math:`Q_1` dovodi se plinu iz toplijeg spremnika pri stalnoj temperaturi :math:`T_1`.
   Nema promjene unutarnje energije plina, :math:`\Delta{U}=0`. Plin u cilindru obavlja rad koji je jednak dovedenoj
   toplini, zbog čega se klip podiže, a volumen plina povećava.
 
-  2→3 adijabatska ekspanzija – plin je termički izoliran pa nema izmjene topline s okolinom, odnosno :math:`Q=0`.
-  Plin obavlja rad na račun smanjenja unutarnje energije pa se temperatura plina smanjuje na vrijednost
+  :math:`W_{12}=Q_1`
+
+  :math:`2→3` **adijabatska ekspanzija** – plin je termički izoliran pa nema izmjene topline s okolinom, odnosno :math:`Q=0`.
+  Rad koji obavi plin jednak je smanjenu unutarnje energije pa se temperatura plina smanjuje na vrijednost
   :math:`T_2`. Klip se i dalje podiže, a volumen povećava.
 
-  3→4 izotermna kompresija – toplina :math:`Q_2` prenosi se hladnijem spremniku pri stalnoj temperaturi :math:`T_2`.
+  :math:`W_{23}=-\Delta{U}`
+
+  :math:`3→4` **izotermna kompresija** – toplina :math:`Q_2` prenosi se hladnijem spremniku pri stalnoj temperaturi :math:`T_2`.
   Nema promjene unutarnje energije plina, odnosno :math:`\Delta{U}=0`.
-  Na plinu se obavlja rad koji je prema prvom zakonu termodinamike jednak otpuštenoj toplini :math:`Q_2`.
+  Na plinu se obavlja rad koji je prema prvom zakonu termodinamike po iznosu jednak otpuštenoj toplini :math:`Q_2`.
   Zbog obavljanja toga rada, klip se spušta, a volumen se plina u cilindru smanjuje.
 
-  4→1 adijabatska kompresija – nema izmjene topline s okolinom, a rad koji se obavlja nad plinom
-  događa se na račun povećanja unutarnje energije plina. Pritom plinu raste temperatura na vrijednost :math:`T_1`.
+  :math:`W_{34}=-Q_2`
+
+  :math:`4→1` adijabatska kompresija – nema izmjene topline s okolinom, a rad koji se obavlja nad plinom
+  jednak je povećanju unutarnje energije plina. Pritom plinu raste temperatura na vrijednost :math:`T_1`.
   Plin se vraća na početne vrijednosti tlaka i volumena i time se ciklus završava.
+
+  :math:`W_{41}=\Delta{U}`
 
   .. image:: img/carnotov_kruzni_proces2.jpg
   |
