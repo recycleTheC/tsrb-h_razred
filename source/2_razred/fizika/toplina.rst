@@ -512,7 +512,9 @@ Toplina i termodinamika
 43. **Opiši Carnotov kružni proces / nacrtati u p-V grafu**
 
   .. image:: img/carnotov_kruzni_proces.png
+
 |
+
   .. admonition:: **Analiza Carnotova kružnog procesa po fazama**
 
   1→2 izotermna ekspanzija – toplina :math:`Q_1` dovodi se plinu iz toplijeg spremnika pri stalnoj temperaturi :math:`T_1`.
@@ -533,7 +535,7 @@ Toplina i termodinamika
   Plin se vraća na početne vrijednosti tlaka i volumena i time se ciklus završava.
 
   .. image:: img/carnotov_kruzni_proces2.jpg
-
+  |
   .. image:: img/carnotov_kruzni_proces3.jpg
 
 44. Kako glasi II. zakon termodinamike; perpetuum mobile I. i II. vrste
