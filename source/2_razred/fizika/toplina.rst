@@ -481,12 +481,64 @@ Toplina i termodinamika
   .. image:: img/kruzni_proces.jpg
 
 
-39. Obavljeni, uloženi i dobiveni rad
-40. Što je toplinski stroj? (dijelovi)
-41. Definiraj korisnost (djelotvornost) toplinskog stroja
+39. **Obavljeni, uloženi i dobiveni rad**
+
+  :math:`W_obavljeni`= rad koji obavi plin nad okolinom
+
+  :math:`W_uloženi`= rad koji okolina obavi nad plinom
+
+  :math:`W_dobiveni=W_obavljeni-W_uloženi`
+
+40. **Što je toplinski stroj? (dijelovi)**
+
+  **Toplinski stroj** je uređaj koji u kružnom procesu prevodi toplinu u mehnički rad.
+
+  Tri su osnovna dijela svakog toplinskog stroja: **topliji** i **hladniji spremnik topline**
+  te **radno sredstvo**.
+
+  Radno sredstvo uzima toplinu (:math:`Q_1`) od toplijeg spremnika, dio te topline prevodi
+  u mehanički rad (:math:`W`), a ostatak (:math:`Q_2`) predaje hladnijem spremniku.
+
+  .. image:: img/toplinski_stroj.jpg
+
+41. **Definiraj korisnost (djelotvornost) toplinskog stroja**
+
+  **Djelotvornost (korisnost)** toplinskog stroja (:math:`\eta`) je omjer mehaničkog rada
+  dobivenog u kružnom procesu i topline što ju je radno sredstvo primilo.
+
+  :math:`\eta = \frac {W}{Q_1} = 1 - \frac {Q_2}{Q_1} = 1 - \frac {T_2}{T_1}`
+
 42. Opiši rashladni stroj i toplinsku pumpu
-43. Opiši Carnotov kružni proces / nacrtati u p-V grafu
+43. **Opiši Carnotov kružni proces / nacrtati u p-V grafu**
+
+  .. image:: img/carnotov_kruzni_proces.png
+
+  .. admonition:: **Analiza Carnotova kružnog procesa po fazama**
+
+  .. image:: img/carnotov_kruzni_proces2.jpg
+
+  1→2 izotermna ekspanzija – toplina :math:`Q_1` dovodi se plinu iz toplijeg spremnika pri stalnoj temperaturi :math:`T_1`.
+  Nema promjene unutarnje energije plina, :math:`\Delta{U}=0`. Plin u cilindru obavlja rad koji je jednak dovedenoj
+  toplini, zbog čega se klip podiže, a volumen plina povećava.
+
+  2→3 adijabatska ekspanzija – plin je termički izoliran pa nema izmjene topline s okolinom, odnosno :math:`Q=0`.
+  Plin obavlja rad na račun smanjenja unutarnje energije pa se temperatura plina smanjuje na vrijednost
+  :math:`T_2`. Klip se i dalje podiže, a volumen povećava.
+
+  3→4 izotermna kompresija – toplina :math:`Q_2` prenosi se hladnijem spremniku pri stalnoj temperaturi :math:`T_2`.
+  Nema promjene unutarnje energije plina, odnosno :math:`\Delta{U}=0`.
+  Na plinu se obavlja rad koji je prema prvom zakonu termodinamike jednak otpuštenoj toplini :math:`Q_2`.
+  Zbog obavljanja toga rada, klip se spušta, a volumen se plina u cilindru smanjuje.
+
+  4→1 adijabatska kompresija – nema izmjene topline s okolinom, a rad koji se obavlja nad plinom
+  događa se na račun povećanja unutarnje energije plina. Pritom plinu raste temperatura na vrijednost :math:`T_1`.
+  Plin se vraća na početne vrijednosti tlaka i volumena i time se ciklus završava.
+
+  .. image:: img/carnotov_kruzni_proces3.jpg  
+
 44. Kako glasi II. zakon termodinamike; perpetuum mobile I. i II. vrste
+
+  Perpetuum mobile I. vrste nije moguć jer se kosi sa zakonima termodinamike.
 
 45. **Molekularno - kinetička teorija plinova / model idealnog plina**
 
