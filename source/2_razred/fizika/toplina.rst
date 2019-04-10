@@ -485,9 +485,9 @@ Toplina i termodinamika
 
 39. **Obavljeni, uloženi i dobiveni rad**
 
-  :math:`W_obavljeni` = rad koji obavi plin nad okolinom
+  :math:`W_{obavljeni}` = rad koji obavi plin nad okolinom
 
-  :math:`W_uloženi` = rad koji okolina obavi nad plinom
+  :math:`W_{uloženi}` = rad koji okolina obavi nad plinom
 
   :math:`W_{dobiveni}=W_{obavljeni}-W_{uloženi}`
 
