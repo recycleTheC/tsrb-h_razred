@@ -397,8 +397,8 @@ Toplina i termodinamika
   1) izobarni proces: :math:`W=p*\Delta{V}`
 
   2) izotermni proces: :math:`W=n*R*T*\ln{\frac{p1}{p2}}`
-  
-  2) izohorni proces: :math:`W=0`
+
+  3) izohorni proces: :math:`W=0`
 
 29. **Čime je grafički prikazan rad plina u p-V koordinatnom sustavu?**
 
