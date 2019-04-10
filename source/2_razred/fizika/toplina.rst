@@ -478,7 +478,7 @@ Toplina i termodinamika
 
   **W < 0** => rad plina je manji od rada vanjske sile (kružni proces teče u smjeru suprotno od kazaljke na satu)
 
-  **W = 0** => plin se iz stanja B vraća u početno stanje A istim putem kojim je iz stanja A došao u stanje B (slika)
+  **W = 0** => plin se iz stanja B vraća u početno stanje A istim putem kojim je iz stanja A došao u stanje B
 
   .. image:: img/kruzni_proces.jpg
 
