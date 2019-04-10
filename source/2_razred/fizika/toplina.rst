@@ -212,7 +212,7 @@ Toplina i termodinamika
   Termodinamičku temperaturu nazivamo apsolutnom jer na temperaturi od 0 K
   (*apsolutna nula*) gotovo nema termičkoga gibanja čestica.
 
-14. **Jednadžbe stanja idealnog toplina**
+14. **Jednadžbe stanja idealnog plina**
 
   1) :math:`\frac {p*V}{T}=konst.`
 
