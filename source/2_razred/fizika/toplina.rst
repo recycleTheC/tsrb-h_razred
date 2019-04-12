@@ -558,7 +558,7 @@ Toplina i termodinamika
 
     :math:`v_{ef}=\sqrt{\frac {3*p*V}{m}}=\sqrt{\frac {3*R*T}{M}}`
 
-    :math:`v_{ef}~\sqrt{T}`
+    :math:`v_{ef} ~ \sqrt{T}`
 
   .. admonition:: **Model idealnog plina**
 
