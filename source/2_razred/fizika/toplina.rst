@@ -317,6 +317,15 @@ Toplina i termodinamika
 
   .. image:: img/promjena_stanja.jpg
 
+  :math:`Q_{leda}=m*c_{led}*\Delta{T_1}`
+
+  :math:`Q_t=m*\lambda`
+
+  :math:`Q_{vode}=m*c_{vode}*\Delta{T_2}`
+
+  :math:`Q_i=m*r`
+
+  :math:`Q_{pare}=m*c_{pare}*\Delta{T_3}`
 
 22. **Ovisnost temperature taljenja o visokom tlaku**
 
@@ -558,7 +567,7 @@ Toplina i termodinamika
 
     :math:`v_{ef}=\sqrt{\frac {3*p*V}{m}}=\sqrt{\frac {3*R*T}{M}}`
 
-    :math:`v_{ef} ~ \sqrt{T}`
+    :math:`v_{ef} \text~ \sqrt{T}`
 
   .. admonition:: **Model idealnog plina**
 
