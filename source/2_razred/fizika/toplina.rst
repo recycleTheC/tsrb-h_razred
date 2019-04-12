@@ -15,7 +15,7 @@ Toplina i termodinamika
 
   :math:`\bar{E_k} \text~ T`
 
-  *[čestice se gibaju nasumično, u svim svmjerovima -> Brownovo gibanje]*
+  *[čestice se gibaju nasumično, u svim smjerovima -> Brownovo gibanje]*
 
 
 2. **Temperaturne ljestvice**
@@ -548,11 +548,17 @@ Toplina i termodinamika
     |
     .. image:: img/carnotov_kruzni_proces3.jpg
 
-44. Kako glasi II. zakon termodinamike; perpetuum mobile I. i II. vrste
+44. **Kako glasi II. zakon termodinamike; perpetuum mobile I. i II. vrste**
 
   Perpetuum mobile I. vrste nije moguć jer se kosi sa zakonima termodinamike.
 
 45. **Molekularno - kinetička teorija plinova / model idealnog plina**
+
+  .. admonition:: **Molekularno - kinetička teorija plinova**
+
+    :math:`v_{ef}=\sqrt{\frac {3*p*V}{m}}=\sqrt{\frac {3*R*T}{M}}`
+
+    :math:`v_{ef}~\sqrt{T}`
 
   .. admonition:: **Model idealnog plina**
 
