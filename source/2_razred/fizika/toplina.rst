@@ -366,13 +366,13 @@ Toplina i termodinamika
 
   .. admonition:: **Talište**
 
-    Talište (temperatura taljenja) je temperatura na kojoj tvar (**voda**) iz čvrstog agregacijskog
+    Talište (temperatura taljenja) je temperatura na kojoj tvar iz čvrstog agregacijskog
     stanja prelazi u tekuće agregacijsko stanje.
 
 
   .. admonition:: **Vrelište**
 
-    Vrelište (temperatura vrenja) je temperatura na kojoj tvar (**voda**) iz tekućeg agregacijskog
+    Vrelište (temperatura vrenja) je temperatura na kojoj tvar iz tekućeg agregacijskog
     stanja prelazi u plinovito agregacijsko stanje.
 
 26. **Ovisnost vrelišta o vanjskom tlaku**
