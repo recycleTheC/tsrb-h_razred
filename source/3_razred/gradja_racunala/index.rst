@@ -7,7 +7,7 @@ Građa računala
 ====================================================
 
 .. toctree::
-   :maxdepth: 0
+   :maxdepth: 2
    :caption: Sadržaj:
 
    

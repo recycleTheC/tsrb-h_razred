@@ -7,7 +7,7 @@ Tehnička škola Ruđera Boškovića - Skripte za učenje
 ====================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 0
    :caption: Razredi
 
    2_razred/index
