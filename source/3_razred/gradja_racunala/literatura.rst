@@ -3,4 +3,4 @@ Građa računala, S. Ribarić, Visoka škola za primjenjeno računarstvo, 2011
 
     .. image:: Gradja_racunala-S_Ribaric.pdf
 
-    `python <Gradja_racunala-S_Ribaric.pdf>`_
+    `python <https://github.com/win32mk/tsrb-h_razred/raw/master/source/3_razred/gradja_racunala/Gradja_racunala-S_Ribaric.pdf>`_
