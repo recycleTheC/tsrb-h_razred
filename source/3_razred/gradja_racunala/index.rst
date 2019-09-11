@@ -3,14 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Tehnička škola Ruđera Boškovića - Skripte za učenje
+Građa računala
 ====================================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Razredi
+   :caption: Sadržaj:
 
-   2_razred/index
-   3_razred/index
-
-.. image:: systems.png
+   
