@@ -12,5 +12,3 @@ Tehnička škola Ruđera Boškovića - Skripte za učenje
 
    2_razred/index
    3_razred/index
-
-.. image:: systems.png
