@@ -11,3 +11,4 @@ Građa računala
    :caption: Sadržaj:
 
     .. image:: Gradja_racunala-S_Ribaric.pdf
+    .. figure:: Gradja_racunala-S_Ribaric.pdf
