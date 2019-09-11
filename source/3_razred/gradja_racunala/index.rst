@@ -10,6 +10,4 @@ Građa računala
    :maxdepth: 2
    :caption: Sadržaj:
 
-   `Građa računala, S. Ribarić, Viskoko učilište za primjenjeno računalstvo, 2011 <index.rst_>`_
-
-    `pdf <Gradja_racunala-S_Ribaric.pdf>`
+    .. image:: Gradja_racunala-S_Ribaric.pdf
