@@ -10,5 +10,4 @@ Građa računala
    :maxdepth: 2
    :caption: Sadržaj:
 
-    .. image:: Gradja_racunala-S_Ribaric.pdf
-    .. figure:: Gradja_racunala-S_Ribaric.pdf
+   literatura.rst
