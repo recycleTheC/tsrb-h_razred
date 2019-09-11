@@ -11,6 +11,5 @@ Građa računala
    :caption: Sadržaj:
 
    `Građa računala, S. Ribarić, Viskoko učilište za primjenjeno računalstvo, 2011 <index.rst_>`_
-URL: [https://github.com/win32mk/tsrb-h_razred/raw/master/source/3_razred/gradja_racunala/Gradja_racunala-S_Ribaric.pdf]_
 
     `pdf <Gradja_racunala-S_Ribaric.pdf>`
