@@ -3,12 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-3. razred (2019. / 2020.)
+Hrvatski jezik
 ====================================================
 
 .. toctree::
-   :maxdepth: 0
+   :maxdepth: 2
    :caption: Sadržaj
 
-   hrvatski_jezik/index
-   gradja_racunala/index
+   lektire.rst
