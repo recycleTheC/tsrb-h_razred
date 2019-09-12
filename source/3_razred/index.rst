@@ -11,4 +11,5 @@
    :caption: Sadržaj
 
    hrvatski_jezik/index
+   fizika/index
    gradja_racunala/index
