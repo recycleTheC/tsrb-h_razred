@@ -1,4 +1,4 @@
 Elektrostatika
 ==============
 
-1.
+1. Kako biste pokusom dokazali da postoje dvije vrste naboja?
