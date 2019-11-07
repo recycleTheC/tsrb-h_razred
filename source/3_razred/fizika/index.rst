@@ -10,4 +10,5 @@ Fizika
    :maxdepth: 2
    :caption: Sadržaj
 
-   zbirke.rst
+    elektrostatika.rst
+    zbirke.rst
