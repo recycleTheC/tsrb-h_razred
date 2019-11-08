@@ -9,6 +9,6 @@ Fizika
 .. toctree::
    :maxdepth: 2
    :caption: Sadržaj
-
-    elektrostatika.rst
-    zbirke.rst
+   
+   elektrostatika.rst
+   zbirke.rst
