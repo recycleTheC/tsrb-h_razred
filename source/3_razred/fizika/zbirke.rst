@@ -1,9 +1,9 @@
 Zbirke zadataka
 ===============
 
-| `Plava zbirka, 1. dio <https://github.com/win32mk/tsrb-h_razred/raw/master/source/3_razred/fizika/Fizika_Zbirka_1.pdf>`_
-| `Plava zbirka, 2. dio <https://github.com/win32mk/tsrb-h_razred/raw/master/source/3_razred/fizika/Fizika_Zbirka_2.pdf>`_
-| `Plava zbirka, 3. dio <https://github.com/win32mk/tsrb-h_razred/raw/master/source/3_razred/fizika/Fizika_Zbirka_3.pdf>`_
-| `Rješenja zadataka iz plave zbirke <https://github.com/win32mk/tsrb-h_razred/raw/master/source/3_razred/fizika/Fizika_Zbirka_rjesenja.pdf>`_
+| `Plava zbirka, 1. dio <https://drive.google.com/open?id=0B2qQROGAytnoeERfRF9Ubm5BNmM>`_
+| `Plava zbirka, 2. dio <https://drive.google.com/open?id=0B2qQROGAytnoZHdwVnJXS2Z3ZDA>`_
+| `Plava zbirka, 3. dio <https://drive.google.com/open?id=0B2qQROGAytnoRmZzdnJqVzctTUU>`_
+| `Rješenja zadataka iz plave zbirke <https://drive.google.com/open?id=1kS1Nze_oGlIv_RmU_ZZ40RWUzuznrcdt>`_
 
-`Fizika u 24 lekcije <https://github.com/win32mk/tsrb-h_razred/raw/master/source/3_razred/fizika/Fizika-u-24-Lekcije.pdf>`_
+`Fizika u 24 lekcije <https://drive.google.com/open?id=1Qq_GgPfFU9RD3G74nfSWEEyCiZ6-79yK>`_
