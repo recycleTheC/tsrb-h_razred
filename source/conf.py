@@ -22,14 +22,14 @@ import sphinx.ext.mathjax
 
 # -- Project information -----------------------------------------------------
 
-project = 'TSRB - Skripte za učenje'
-copyright = '2019, Mario Kopjar'
-author = 'Mario Kopjar'
+project = u'TSRB - Skripte za učenje'
+copyright = u'2019, Mario Kopjar'
+author = u'Mario Kopjar'
 
 # The short X.Y version
-version = ''
+version = u''
 # The full version, including alpha/beta/rc tags
-release = '2019'
+release = u'2019'
 
 
 # -- General configuration ---------------------------------------------------
@@ -132,7 +132,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'TSRB-Skriptezauenje.tex', 'TSRB - Skripte za učenje Documentation',
+    (master_doc, 'TSRB-Skriptezauenje.tex', u'TSRB - Skripte za učenje Documentation',
      'Mario Kopjar', 'manual'),
 ]
 
