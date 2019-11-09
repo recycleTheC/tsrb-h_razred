@@ -87,6 +87,9 @@ Elektrostatika
 8. Kako tumačite pojavu negativnog naboja na plastičnom štapu i pozitivnog na krznu nakon trljanja štapa o krzno?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+  Trljanjem plastičnog štapa o krzno, štap postaje negativno nabijen jer se na štapu nalazi višak elektrona, a 
+  krzno postaje pozitivno nabijeno jer ima manjak elektrona.
+
 9. Što su vodiči, a što izolatori?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
   .. admonition:: Vodiči
