@@ -7,7 +7,7 @@ Fizika
 ====================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Sadržaj
    
    elektrostatika/elektrostatika.rst
