@@ -19,5 +19,4 @@ ax.grid(b='false')
 ax.set_yticklabels([])
 ax.set_xticklabels([])
 
-#fig.savefig("coulombov_zakon1.png")
 plt.show()
