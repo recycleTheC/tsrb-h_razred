@@ -127,6 +127,8 @@ Elektrostatika
 
   .. admonition:: Električna polarizacija
 
+    **Električna polarizacija** je pojava da u unutrašnjosti izolatora, zbog vanjskog utjecaja električnog polja, dolazi do usmjeravanja polarnih molekula.
+
     U molekulama nekih izolatora težište pozitivnog naboja ne podudara se s težištem negativnog naboja.
     Takve molekule koje imaju pozitivni i negativni dio nazivamo polarnim molekulama.
     Kada tijelu s polarnim molekulama približimo nabijeno tijelo, prema nabijenom tijelu okreću se
