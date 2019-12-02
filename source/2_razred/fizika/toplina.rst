@@ -292,7 +292,7 @@ Toplina i termodinamika
 
   :math:`Q_2=m_2*c_2(\tau-t_2)`
 
-  Ako su tijela izdvojena (izloirana) od drugih tijela, vrijedi: :math:`m_1*c_1(t_1-\tau)=m_2*c_2(\tau-t_2)`
+  Ako su tijela izdvojena (izolirana) od drugih tijela, vrijedi: :math:`m_1*c_1(t_1-\tau)=m_2*c_2(\tau-t_2)`
 
   **Richmannovo pravilo** kaže da je količina topline koju tijelo niže temperature
   primi od tijela više temperature jednaka količini topline koju tijelo više
