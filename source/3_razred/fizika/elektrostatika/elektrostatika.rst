@@ -41,7 +41,7 @@ Elektrostatika
 3. U kakvom su odnosu količine naboja na štapu i vuni kada nakon trljalja plastičnog štapa o vunu štap odvojimo od njega?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-  Nakon trljanja štapa o vunu odvojimo štap od vune. Naboj na plastičnom štaju je negativan (*višak elektrona*),
+  Nakon trljanja štapa o vunu odvojimo štap od vune. Naboj na plastičnom štapu je negativan (*višak elektrona*),
   a naboj na vuni je pozitivan (*manjak elektrona*).
 
 4. Što je kvant električnog naboja i koliko iznosi? Tko ga je odredio?
