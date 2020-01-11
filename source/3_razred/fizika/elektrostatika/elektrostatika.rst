@@ -15,7 +15,7 @@ Elektrostatika
 1. Kako biste pokusom dokazali da postoje dvije vrste naboja?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-  Dokazivanje: dvije vrste električnog naboja (*elektriziranje trenjem*)
+  Dokazivanje: dvije vrste električnog naboja (*elektriziranje trenjem*); pokus sa perjanicama
   
   Komad krzna savijemo u oblik štapa, zatim jedan njegov kraj natrljamo plastičnim štapom i ovjesimo ga o niti.
   Kada natrljanom dijelu krzna ovješenom o niti približimo drugi natrljani komad krzna, opažamo da se oni odbijaju.
@@ -27,6 +27,11 @@ Elektrostatika
   .. image:: elektriziranje-2.png
     :align: center
 
+  |
+
+  Elektriziramo li plastični predmet, on će biti negativno naelektriziran. 
+  Elektriziramo li stakleni predmet, on će biti pozitivno naelektriziran.
+
 2. Dijelovi elektroskopa i kako radi
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -36,13 +41,15 @@ Elektrostatika
   elektroskopa, naboj s tijela prijeđe na šipku i kazaljku elektroskopa. Budući da se istoimeni naboji odbijaju,
   kazaljka se otkloni od šipke. Otklon kazaljke pokazatelj je naelektriziranosti tijela.
 
+  Kako elektroskop može pohraniti naboj, možemo ga smatrati kondenzatorom.
+
     .. image:: elektroskop.jpg
 
 3. U kakvom su odnosu količine naboja na štapu i vuni kada nakon trljalja plastičnog štapa o vunu štap odvojimo od njega?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
   Nakon trljanja štapa o vunu odvojimo štap od vune. Naboj na plastičnom štapu je negativan (*višak elektrona*),
-  a naboj na vuni je pozitivan (*manjak elektrona*).
+  a naboj na vuni je pozitivan (*manjak elektrona*). Ukupni naboj ostaje isti.
 
 4. Što je kvant električnog naboja i koliko iznosi? Tko ga je odredio?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -61,13 +68,13 @@ Elektrostatika
 
 5. Postoji li količina naboja od :math:`2*10^{-19} \text{ C?}`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  Ne postoji! Količina naboja je **uvijek** višekratnik od :math:`e`.
+  Ne postoji! Količina naboja je **uvijek** cjelobrojni višekratnik od :math:`e`.
 
 6. Koje su čestice nositelji električnog naboja?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
   | Nositelji **negativnog** naboja --> elektroni (u omotaču atoma)
-  | Nositelji **pozitivnog** naboja --> pozitivni ioni (atomi kojima nedostaje 1 ili više elektrona u omotaču --> šupljine)
+  | Nositelji **pozitivnog** naboja --> protoni, pozitivni ioni (atomi kojima nedostaje 1 ili više elektrona u omotaču --> šupljine)
 
 7. Kako računamo ukupni naboj na nekom tijelu?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -88,7 +95,8 @@ Elektrostatika
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
   Trljanjem plastičnog štapa o krzno, štap postaje negativno nabijen jer se na štapu nalazi višak elektrona, a 
-  krzno postaje pozitivno nabijeno jer ima manjak elektrona.
+  krzno postaje pozitivno nabijeno jer ima manjak elektrona. Elektroni su prešli sa krzna na štap jer su u krznu
+  vezani slabijim silama za jezgru.
 
 9. Što su vodiči, a što izolatori?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -116,38 +124,46 @@ Elektrostatika
   
   .. admonition:: Primjer
 
-    Kada približavamo nabijeno tijelo elektroskopu, njegove kazaljke se otkalanjaju i prije nego 
+    1. Kada približavamo nabijeno tijelo elektroskopu, njegove kazaljke se otkalanjaju i prije nego 
     što nabijeno tijelo dotakne kuglicu elektroskopa. Zbog toga, u metalnom štapu elektroskopa dolazi dolazi 
     do razdvjanja negativnog naboja od pozitivnog.
 
     .. image:: influencija.png
+
+    |
+
+    2. **Naelektrizirani balon zalijepi se za strop**
 
 12. Što je električna polarizacija? Navedi primjer!
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
   .. admonition:: Električna polarizacija
 
-    **Električna polarizacija** je pojava da u unutrašnjosti izolatora, zbog vanjskog utjecaja električnog polja, dolazi do usmjeravanja polarnih molekula.
+    **Električna polarizacija** je pojava u unutrašnjosti izolatora, zbog vanjskog utjecaja električnog polja, dolazi do usmjeravanja polarnih molekula.
 
     U molekulama nekih izolatora težište pozitivnog naboja ne podudara se s težištem negativnog naboja.
     Takve molekule koje imaju pozitivni i negativni dio nazivamo polarnim molekulama.
     Kada tijelu s polarnim molekulama približimo nabijeno tijelo, prema nabijenom tijelu okreću se
-    oni dijelovi polarnih molekula čiji je naboj suprotan naboju nabijenog tijela (slika 43). Tu pojavu nazivamo 
-    električnom polarizacijom. Zbog električne polarizacije, nabijeno tijelo privlači komadiće papira koji su električki neutralni.
+    oni dijelovi polarnih molekula čiji je naboj suprotan naboju nabijenog tijela. Tu pojavu nazivamo 
+    električnom polarizacijom.
     
-    .. image:: polarizacija.png
+    .. image:: polarizacija.gif
+      :align: center
     
 
 13. Napiši jednadžbu Coulombovog zakona i pojasni ovisnosti veličina te nacrtaj pripadajuće grafove!
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-  | :math:`F = k_o \frac{Q_1 Q_2}{r^2}` , :math:`k_o = \frac{1}{4 \pi \epsilon_o}` 
+  | :math:`F = k * \frac{Q_1 Q_2}{r^2}` , :math:`k = \frac{1}{4 \pi \epsilon_o \epsilon_r}` 
 
   | Sila kojom međusobno djeluju dva točkasta naboja proporcionalna je količina naboja na njima (:math:`Q_1` i :math:`Q_2`), a obrnuto proporcionalna kvadratu njihove udaljenosti (:math:`r`). 
 
   .. image:: coulombov_zakon1.png
 
   .. image:: coulombov_zakon2.png
+  
+  .. image:: coulombov_zakon3.png
+  
 
 14. Kako definiramo jakost električnog polja (formula, jedinica)? Je li jakost skalar ili vektor?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -164,9 +180,9 @@ Elektrostatika
   .. admonition:: Točkasti naboj
     
     | Na udaljenosti :math:`r` od točkastog naboja :math:`Q` nalazi se probni naboj :math:`q`. Sila na probni naboj određena je Coulombovim zakonom:
-    | :math:`F = k_o \frac{Q_1 Q_2}{r^2}`
+    | :math:`F = k * \frac{Q_1 Q_2}{r^2}`
     | Podijelimo li silu iznosom probnog naboja, dobit ćemo jakost električnog polja naboja :math:`Q` na udaljenosti :math:`r`.  
-    | :math:`E = \frac{F}{q} = \frac{\frac{1}{4 \pi \epsilon} \frac{Q*q}{r^2}}{q} = \frac{1}{4\pi\epsilon} \frac{Q}{r^2} = k_o * \frac{Q}{r^2}` 
+    | :math:`E = \frac{F}{q} = \frac{\frac{1}{4 \pi \epsilon_o \epsilon_r} \frac{Q*q}{r^2}}{q} = \frac{1}{4\pi\epsilon_o\epsilon_r} \frac{Q}{r^2} = k * \frac{Q}{r^2}` 
     | Jakost električnog polja naboja (:math:`Q`) opada s kvadratom udaljenosti (:math:`r`) od njega.
 
     .. image:: el-polje_tockasti.png
@@ -174,7 +190,7 @@ Elektrostatika
   .. admonition:: Metalna kugla
 
     | Jakost električnog polja unutar kugle (:math:`r < R`) jednaka je **nuli** (*Faradayev kavez*).
-    | Jakost električnog polja **na površini kugle**: :math:`E = \frac{1}{4\pi\epsilon} \frac{Q}{R^2}`
+    | Jakost električnog polja **na površini kugle**: :math:`E = \frac{1}{4\pi\epsilon_o\epsilon_r} \frac{Q}{R^2}`
 
     .. image:: el-polje_kugla.png
 
@@ -216,6 +232,18 @@ Elektrostatika
   Djelovanje Faradayevog kaveza: 
 
   .. image:: Faraday_cage.gif
+
+  .. admonition:: Pokus
+  
+    Papirići na naelektriziranoj mreži se odmiču od mreže dok je ona "razvijena".
+
+    .. image:: faradayev_pokus1.jpg
+
+    Papirići unutar zatvorene naelektrizirane mreže su uz mrežu, dok se papirići izvan mreže i dalje odmiču od nje.
+
+    .. image:: faradayev_pokus2.jpg
+    
+    
   
 19. Objasni Gaussov zakon!
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
