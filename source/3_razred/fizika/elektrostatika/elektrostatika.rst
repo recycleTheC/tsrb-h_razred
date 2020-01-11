@@ -415,6 +415,8 @@ Elektrostatika
 34. Izvedi izraz za ukupni kapacitet serijskog spoja N kondenzatora!
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+  (:math:`C_1=C_2=C_3=C_N`)
+
   .. image:: serijski_kondenzatori.png
       :width: 45 %
 
@@ -434,6 +436,8 @@ Elektrostatika
 
 35. Izvedi izraz za ukupni kapacitet paralelnog spoja N kondenzatora!
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+  (:math:`C_1=C_2=C_3=C_N`)
 
   .. image:: paralelni_kondenzatori.png
       :width: 45 %
