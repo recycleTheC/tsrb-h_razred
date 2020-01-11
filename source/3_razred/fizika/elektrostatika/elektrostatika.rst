@@ -36,7 +36,7 @@ Elektrostatika
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
   Elektroskop se sastoji od metalne šipke na stalku i kazaljke postavljene u kućištu odvojenim izolatorom.
-  Kućište je postavljeno na stalak je od plastike, stakla, porculana ili sličnog
+  Kućište je postavljeno na stalak od plastike, stakla, porculana ili sličnog
   materijala. Na gornjem dijelu šipke je metalna kuglica ili ploča. Kada naelektriziranim tijelom dodirnemo kuglicu
   elektroskopa, naboj s tijela prijeđe na šipku i kazaljku elektroskopa. Budući da se istoimeni naboji odbijaju,
   kazaljka se otkloni od šipke. Otklon kazaljke pokazatelj je naelektriziranosti tijela.
@@ -49,7 +49,7 @@ Elektrostatika
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
   Nakon trljanja štapa o vunu odvojimo štap od vune. Naboj na plastičnom štapu je negativan (*višak elektrona*),
-  a naboj na vuni je pozitivan (*manjak elektrona*). Ukupni naboj ostaje isti.
+  a naboj na vuni je pozitivan (*manjak elektrona*).
 
 4. Što je kvant električnog naboja i koliko iznosi? Tko ga je odredio?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -58,6 +58,8 @@ Elektrostatika
   **kvant** električnog naboja
 
   | :math:`e = 1,6*10^{-19} \text{ C}` 
+
+  | Kvant električnog naboja je elementarni električni naboj.
 
   | **Elementarni naboj** je odredio *Robert Andrews* **Millikan**.
 
@@ -95,8 +97,8 @@ Elektrostatika
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
   Trljanjem plastičnog štapa o krzno, štap postaje negativno nabijen jer se na štapu nalazi višak elektrona, a 
-  krzno postaje pozitivno nabijeno jer ima manjak elektrona. Elektroni su prešli sa krzna na štap jer su u krznu
-  vezani slabijim silama za jezgru.
+  krzno postaje pozitivno nabijeno jer ima manjak elektrona. Elektroni su prešli sa krzna na štap jer krzno
+  može lakše otpustiti elektrone.
 
 9. Što su vodiči, a što izolatori?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -139,7 +141,7 @@ Elektrostatika
 
   .. admonition:: Električna polarizacija
 
-    **Električna polarizacija** je pojava u unutrašnjosti izolatora, zbog vanjskog utjecaja električnog polja, dolazi do usmjeravanja polarnih molekula.
+    **Električna polarizacija** je pojava u unutrašnjosti izolatora gdje, zbog vanjskog utjecaja električnog polja, dolazi do               usmjeravanja polarnih molekula.
 
     U molekulama nekih izolatora težište pozitivnog naboja ne podudara se s težištem negativnog naboja.
     Takve molekule koje imaju pozitivni i negativni dio nazivamo polarnim molekulama.
