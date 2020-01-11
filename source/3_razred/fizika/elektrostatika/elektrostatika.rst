@@ -234,12 +234,14 @@ Elektrostatika
   .. image:: Faraday_cage.gif
 
   .. admonition:: Pokus
-  
+
     Papirići na naelektriziranoj mreži se odmiču od mreže dok je ona "razvijena".
 
     .. image:: faradayev_pokus1.jpg
 
-    Papirići unutar zatvorene naelektrizirane mreže su uz mrežu, dok se papirići izvan mreže i dalje odmiču od nje.
+    |
+
+    Papirići unutar zatvorene naelektrizirane mreže se nisu odmaknuli, dok se papirići izvan mreže i dalje odmiču od nje.
 
     .. image:: faradayev_pokus2.jpg
     
