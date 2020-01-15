@@ -60,8 +60,8 @@ Elektromagnetizam
 15. Magnetski tok (definicija, formula, jedinica)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-16. Djelovanje struje na struju (sila između dva vodiča)....slika, formula. !!! pogrešno napisano pitanje !!!
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+16. Djelovanje struje na struju (sila između dva vodiča), slika, formula.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 17. Izvod jednadžbe za inducirani napon ravnog vodiča i slika.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

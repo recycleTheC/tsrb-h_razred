@@ -17,6 +17,13 @@ Magnetizam
 
 1. Podjela magneta
 ^^^^^^^^^^^^^^^^^^
+  +------------------+--------------------------------------+
+  | Prirodni magneti | željezne rude (magnetit)             |
+  +------------------+--------------------------------------+
+  | Umjetni magneti  | permanentni (štapičasti, potkovasti) |
+  |                  +--------------------------------------+
+  |                  | elektromagneti                       |
+  +------------------+--------------------------------------+
 
 2. Koja je razlika između magneta i električnog naboja?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
