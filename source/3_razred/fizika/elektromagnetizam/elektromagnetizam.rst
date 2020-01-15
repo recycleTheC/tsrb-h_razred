@@ -18,23 +18,44 @@ Elektromagnetizam
 1. Djeluju li magneti samo na željezne predmete?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+  Magneti djeluju privlačnom silom na feromagnetske materijale.
+
 2. Zašto se magnetska igla postavlja u smjeru sjever-jug?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 3. Kako pomoću magnetske igle određujemo smjer silnice magnetskog polja?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
+  .. image:: oerstedov_pokus.jpg
+  
 4. O čemu ovisi Ampereova sila? Kako pravilom desne ruke određujemo njezin smjer? (nacrtati sliku)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 5. Kojom veličinom opisujemo magnetsko polje? Je li to vektorska ili skalarna veličina?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+  .. admonition:: Magnetska indukcija
+  
+    Magnetska indukcija (*ili gustoća magnetskog toka*) je vektorska veličina kojom opisujemo magnetsko polje, označava se slovom B, mjerna jedininca je tesla (T).
+
+    | :math:`T = \frac{N}{Am}` 
+
 6. Koju silu zovemo Lorentzovom i o čemu ovisi?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  Lorentzova sila je sila koja djeluje na električki nabijenu česticu koja se giba u magnetskom polju.
 
 7. Kako biste pravilom desne ruke odredili smjer Lorentzove sile na elektron?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+  .. image:: ../magnetizam/pdr_lorentzovo.jpg
+    :width: 50%
+    :align: center
+
+  .. image:: elektron.jpg
+    :width: 50%
+    :align: center
+  
+  | **Elektron** (plavo): Ispruženi prsti desne ruke pokazuju smjer magnetskog polja, palac pokazuje smjer brzine, a Lorentzova sila djeluje okomito u dlan.
+  | **Proton** (crveno): Ispruženi prsti desne ruke pokazuju smjer magnetskog polja, palac pokazuje smjer brzine, a Lorentzova sila djeluje okomito iz dlana.
 
 8. Kolika je Lorentzova sila na a) neutron a kolika na proton koji se giba paralelno silnicama magnetskog polja b) na elektron koji miruje u magnetskom polju?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -44,6 +65,8 @@ Elektromagnetizam
 
 10. Što uzrokuje magnetsko polje?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+  Magnetsko polje je uzrokovano gibanjem naboja. 
 
 11. Opiši i navedi zaključke Oerstedovog pokusa
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -104,7 +127,7 @@ Elektromagnetizam
     .. image:: ../magnetizam/magnetski_tok.jpg
       :width: 50%
       :align: center
-      
+
     .. image:: ../magnetizam/magnetski_tok2.jpg
       :width: 50%
       :align: center

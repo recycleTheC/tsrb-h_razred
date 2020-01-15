@@ -74,7 +74,7 @@ Magnetizam
 
   .. admonition:: Magnetska indukcija
   
-    Magnetska indukcija (*ili gustoća magnetskog toka*) je veličina kojom opisujemo magnetsko polje, označava se slovom B, mjerna jedininca je tesla (T).
+    Magnetska indukcija (*ili gustoća magnetskog toka*) je vektorska veličina kojom opisujemo magnetsko polje, označava se slovom B, mjerna jedininca je tesla (T).
 
     | :math:`T = \frac{N}{Am}` 
 
