@@ -64,3 +64,42 @@ Magnetizam
 
 17. Algebraski izraz za Lorentzovu silu
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+18. Definirajte magnetski tok i navedite njegovu formulu s mjernom jedinicom
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+19. Amperova sila, formula, slika, pravilo desne ruke
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+20. Što je to elektromagnetska indukcija? Faradayev zakon indukcije za ravni vodič i zavojnicu
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+21. Flemingovo pravilo desne ruke za određivanje smjera induciranog napona: ako je palac u smjeru gibanja vodiča (v), kažiprst u smjeru polja (B), srednjak će pokazivati smjer induciranog napona, odnosno smjer kojim će teći struja ako je strujni krug zatvoren.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+22. Što može proizvesti promjenu jakosti magnetskog polja?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+23. Navedite slučajeve indurciranja napona u zavojnici
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+24. Lentzovo pravilo
+^^^^^^^^^^^^^^^^^^^^
+
+25. Što se događa prilikom uključenja zavojnice u strujnom krugu? Zašto se u njoj inducira napon? Zašto vrijednost struje kroz nju ne poraste na najveću moguću vrijednost trenutno?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+26. Što se događa prilikom isključivanja zavojnice u krugu?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+27. Napišite jednadžbu koja povezuje magnetski tok i jakost struje kroz zavojnicu
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+28. Što je to induktivitet i o čemu osivi?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+29. Kako računamo energiju magnetskog polja?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+30. Na kojem principu radi električni generator?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
