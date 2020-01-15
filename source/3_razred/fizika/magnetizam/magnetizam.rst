@@ -28,8 +28,18 @@ Magnetizam
 2. Koja je razlika između magneta i električnog naboja?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+  Magnet ima **stalno** magnetsko polje zbog konstantnog gibanja njegovih čestica, a električni naboj **stvara** magnetsko polje **kada se giba**.
+
 3. Zemljino magnetsko polje
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+  Zemlja se ponaša kao veliki magnet. Uzrok Zemljina magnetskog polja je gibanje nabijenih čestica u njezinom tekućem dijelu.
+  | Južni pol Zemljinog magnetskog polja nalazi se u blizini Sjevernoga geografskog pola, a sjeverni magnetski pol je u blizini Južnoga geografskog pola.
+  Položaj magnetskih polova pomaknut je u odnosu na položaje geografskih polova. 
+
+  .. image:: zemljino_mag-polje.jpg
+    :width: 50%
+    :align: center
 
 4. Oerstedov pokus i zaključci
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
