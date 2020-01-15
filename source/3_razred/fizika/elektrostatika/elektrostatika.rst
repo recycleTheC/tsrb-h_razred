@@ -1,7 +1,7 @@
 Elektrostatika
 ==============
 
-U pripremi: `Magnetizam <../magnetizam/magnetizam.html>`__
+U pripremi: `Magnetizam <../magnetizam/magnetizam.html>`__, `Elektromagnetizam <../elektromagnetizam/elektromagnetizam.html>`__
 
 .. admonition:: Autorova uputa za učenje
 

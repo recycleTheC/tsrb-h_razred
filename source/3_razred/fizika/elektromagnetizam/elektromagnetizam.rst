@@ -1,6 +1,9 @@
 Elektromagnetizam
 =================
 
+| `Elektrostatika <../elektrostatika/elektrostatika.html>`__
+| `Magnetizam <../magnetizam/magnetizam.html>`__
+
 .. admonition:: Autorova uputa za učenje
 
     | **Učiti s razumijevanjem! :)**
@@ -49,13 +52,13 @@ Elektromagnetizam
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 13. Kako možemo povećati magnetsku indukciju u zavojnici ne mijenjajući jakost struje?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 14. Kako biste desnom rukom odredili smjer magnetskog polja ravnog vodiča i zavojnice?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 15. Magnetski tok (definicija, formula, jedinica)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 16. Djelovanje struje na struju (sila između dva vodiča)....slika, formula. !!! pogrešno napisano pitanje !!!
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
