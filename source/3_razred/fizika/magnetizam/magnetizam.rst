@@ -197,6 +197,10 @@ Magnetizam
     .. image:: magnetski_tok.jpg
       :width: 50%
       :align: center
+    |
+    .. image:: magnetski_tok2.jpg
+      :width: 50%
+      :align: center
 
 19. Amperova sila, formula, slika, pravilo desne ruke
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
