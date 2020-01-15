@@ -126,16 +126,35 @@ Magnetizam
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
   Apsolutna permeabilnost vakuuma je konstanta magnetske permeabilnosti vakuuma, koja iznosi :math:`\mu_0 = 4\pi * 10^{-7} \frac{H}{m}`.
+  
   Relativna permeabilnost, :math:`\mu_r`, je fizikalna veličina s pomoću koje se opisuje utjecaj tvari na vanjsko magnetsko polje.​
 
 13. Napišite jednadžbe za jakost magnetskog polja ravnog vodiča, petlje i zavojnice
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+  :math:`H = \frac{B}{\mu_0 \mu_r}` :math:`[\frac{A}{m}]`
+
+  .. admonition:: Ravni vodič
+
+    :math:`H = \frac{I}{2\pi r}`   
+
+  .. admonition:: Petlja
+
+    :math:`H = \frac{I}{2R}`   
+
+  .. admonition:: Zavojnica
+  
+    :math:`H = \frac{N*I}{l}` 
+
 14. Kako magnetsko polje djeluje na česticu u gibanju?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+  Magnetsko polje na česticu u gibanju djeluje Lorentzovom silom.
+
 15. Kada je iznos magnetske sile na gibanje nabijene čestice u magnetskom polju najveći, a kada najmanji? (slika)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+  Iznos magnetske sile na gibanje nabijene čestice je najveći kada je kut (:math:`\alpha`) između vektora površine (:math:`\vec{S}`) i vektora magnetske indukcije (:math:`\vec{B}`) jednak 90°, a najmanji kada je jednak 0°. 
 
 16. Pravilo desne ruke za magnetsku silu na naboj 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
