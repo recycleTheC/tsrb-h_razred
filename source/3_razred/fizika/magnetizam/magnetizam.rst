@@ -33,24 +33,79 @@ Magnetizam
 
 4. Oerstedov pokus i zaključci
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  .. image:: oerstadev1.jpg
+  
+  Postavi li se magnetna igla paralelno s vodičem kroz koji pustimo struju, igla se zakreće. Kad promijenimo smjer struje kroz vodič, magnetna igla se zakreće u suprotnom smjeru od prijašnjeg.
+
+  Zaključak: **Električna struja oko vodiča stvara magnetsko polje**
 
 5. O čemu ovisi magnetsko polje oko vodiča kojim teče električna struja (za ravni vodič, petlju i zavojnicu)?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+  .. admonition:: Ravni vodič
+
+    Magnetsko polje ravnog vodiča ovisi o udaljenosti od vodiča i jakosti struje kroz njega.
+
+  .. admonition:: Petlja
+
+    Magnetsko polje petlje ovisi o polumjeru prsten i jakosti struje kroz njega. 
+
+  .. admonition:: Zavojnica
+
+    Magnetsko polje zavojnice ovisi o broju namotaja, jakosti struje kroz zavojnicu i duljini zavojnice. 
+
 6. Kakve su silnice magnetskog polja?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+  Silnice magnetskog polja su **kružnog oblika**.
 
 7. Što je to magnetska indukcija, kako se označava i mjerna jedinica?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+  .. admonition:: Magnetska indukcija
+  
+    Magnetska indukcija (*ili gustoća magnetskog toka*) je veličina kojom opisujemo magnetsko polje, označava se slovom B, mjerna jedininca je tesla (T).
+
+    | :math:`T = \frac{N}{Am}` 
+
 8. Kako glase algebraski izrazi za magnetsku indukciju ravnog vodiča, petlje i zavojnice?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  .. admonition:: Ravni vodič
+
+    :math:`B = \mu_0 \mu_r * \frac{I}{2 \pi r}`   
+
+  .. admonition:: Petlja
+
+    :math:`B = \mu_0 \mu_r * \frac{I}{2R}`   
+
+  .. admonition:: Zavojnica
+  
+    :math:`B = \mu_0 \mu_r * \frac{N*I}{l}` 
 
 9. Pravilo desne ruke za određivanje vektora B za ravni vodič
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+  .. admonition:: Pravilo desne ruke: Ravni vodič
+
+    Palac pokazuje smjer električne struje (I), a savijeni prsti desne ruke pokazuju smjer obilaženja silnica.
+
+    .. image:: pdr_ravni.jpg
+      :width: 50%
+      :align: center
+    
+
 10. Što je to homogeno magnetsko polje i primjer za njega?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+  .. admonition:: Homogeno magnetsko polje
+
+    Homogeno magnetsko polje je magnetsko polje čiji je iznos i smjer magnetske indukcije u svakoj točki jednak.
+    Silnice homogenog polja su međusobno paralelni pravci svuda jednake gustoće.
+
+    Homogeno magnetsko polje -> magnetsko polje zavojnice
+
+    .. image:: magnetsko_polje_zavojnice.jpg
+  
 
 11. Nacrtaj magnetske silnice za štapičasti magnet i potkovasti magnet
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
