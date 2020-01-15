@@ -88,4 +88,29 @@ Magnetizam
 22. Što može proizvesti promjenu jakosti magnetskog polja?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-`Magnetizam <../magnetizam/magnetizam.html>`__
+23. Navedite slučajeve induciranja napona u zavojnici?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+23. Navedite slučajeve induciranja napona u zavojnici?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+24. Lentzovo pravilo
+^^^^^^^^^^^^^^^^^^^^
+
+25. Što se događa prilikom uključenja zavojnice u strujnom krugu? Zašto se u njoj inducira napon? Zašto vrijednost struje kroz nju ne poraste na najveću moguću vrijednost trenutno?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+26. Što se događa prilikom isključivanja zavojnice u krugu?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+27. Napišite jednadžbu koja povezuje magnetski tok i jakost struje kroz zavojnicu.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+28. Što je to induktivitet i o čemu ovisi?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+29. Kako računamo energiju magnetskog polja?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+30. Na kojem principu radi električni generator?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
