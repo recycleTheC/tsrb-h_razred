@@ -48,8 +48,26 @@ Elektromagnetizam
 11. Opiši i navedi zaključke Oerstedovog pokusa
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+  .. image:: ../magnetizam/oerstedov1.jpg
+  
+  Postavi li se magnetna igla paralelno s vodičem kroz koji pustimo struju, igla se zakreće. Kad promijenimo smjer struje kroz vodič, magnetna igla se zakreće u suprotnom smjeru od prijašnjeg.
+
+  Zaključak: **Električna struja oko vodiča stvara magnetsko polje**
+
 12. O čemu i kako ovisi magnetsko polje: a) ravnog vodiča b) zavojnice?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+  .. admonition:: Ravni vodič
+
+    Magnetsko polje ravnog vodiča ovisi o udaljenosti od vodiča i jakosti struje kroz njega.
+
+  .. admonition:: Petlja
+
+    Magnetsko polje petlje ovisi o polumjeru prsten i jakosti struje kroz njega. 
+
+  .. admonition:: Zavojnica
+
+    Magnetsko polje zavojnice ovisi o broju namotaja, jakosti struje kroz zavojnicu i duljini zavojnice. 
 
 13. Kako možemo povećati magnetsku indukciju u zavojnici ne mijenjajući jakost struje?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -57,8 +75,39 @@ Elektromagnetizam
 14. Kako biste desnom rukom odredili smjer magnetskog polja ravnog vodiča i zavojnice?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+  .. admonition:: Pravilo desne ruke: Ravni vodič
+
+    Palac pokazuje smjer električne struje (I), a savijeni prsti desne ruke pokazuju smjer obilaženja silnica.
+
+    .. image:: ../magnetizam/pdr_ravni.jpg
+      :width: 50%
+      :align: center
+
+  .. admonition:: Pravilo desne ruke: Zavojnica
+
+    Savijeni prsti slijede smjer električne struje (I) kroz zavoje zavojnice, a ispruženi palac slijedi smjer magnetskih silnica.
+
+    .. image:: ../magnetizam/pdr_zavojnica.jpg
+      :width: 50%
+      :align: center
+
 15. Magnetski tok (definicija, formula, jedinica)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+  .. admonition:: Magnetski tok
+
+    Magnetski tok je fizikalna veličina definirana umnoškom magnetske indukcije (:math:`B`) i površine (:math:`S`)
+    kroz koju prolaze silnice magnetskog polja.
+
+    :math:`\Phi = B * S * cos(\alpha)` :math:`[Wb]` 
+
+    .. image:: ../magnetizam/magnetski_tok.jpg
+      :width: 50%
+      :align: center
+      
+    .. image:: ../magnetizam/magnetski_tok2.jpg
+      :width: 50%
+      :align: center
 
 16. Djelovanje struje na struju (sila između dva vodiča), slika, formula.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

@@ -192,13 +192,12 @@ Magnetizam
     Magnetski tok je fizikalna veličina definirana umnoškom magnetske indukcije (:math:`B`) i površine (:math:`S`)
     kroz koju prolaze silnice magnetskog polja.
 
-    :math:`\Phi = B * S * cos(\alpha)`
+    :math:`\Phi = B * S * cos(\alpha)` :math:`[Wb]` 
 
     .. image:: magnetski_tok.jpg
       :width: 50%
       :align: center
 
-|
     .. image:: magnetski_tok2.jpg
       :width: 50%
       :align: center
