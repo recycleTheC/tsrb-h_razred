@@ -161,7 +161,7 @@ Magnetizam
 
   .. admonition:: Pravilo desne ruke: smjer djelovanja Lorentzove sile
 
-    Ispruženi prsti desne ruke pokazuju smjer magnetskih silnica, palac pokazuje smjer brzine. Smjer vektora sile kojom magnetsko polje djeluje na pozitivno nabijenu česticu okomito izlazi iz dlana.
+    Ispruženi prsti desne ruke pokazuju smjer magnetskih silnica, palac pokazuje smjer brzine. Smjer vektora sile kojom magnetsko polje djeluje na **pozitivno nabijenu česticu** okomito izlazi iz dlana.
 
     .. image:: pdr_lorentzovo.jpg
       :width: 50%
@@ -199,9 +199,6 @@ Magnetizam
 
 22. Što može proizvesti promjenu jakosti magnetskog polja?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-23. Navedite slučajeve induciranja napona u zavojnici?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 23. Navedite slučajeve induciranja napona u zavojnici?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
