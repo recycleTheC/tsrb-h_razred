@@ -11,4 +11,6 @@ Fizika
    :caption: Sadržaj
    
    elektrostatika/elektrostatika.rst
+   magnetizam/magnetizam.rst
+   elektromagnetizam/elektromagnetizam.rst
    zbirke.rst

@@ -1,6 +1,8 @@
 Elektrostatika
 ==============
 
+U pripremi: `Magnetizam <../magnetizam/magnetizam.html>`__
+
 .. admonition:: Autorova uputa za učenje
 
     | **Učiti s razumijevanjem! :)**
