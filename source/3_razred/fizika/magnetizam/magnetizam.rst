@@ -159,11 +159,34 @@ Magnetizam
 16. Pravilo desne ruke za magnetsku silu na naboj 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+  .. admonition:: Pravilo desne ruke: smjer djelovanja Lorentzove sile
+
+    Ispruženi prsti desne ruke pokazuju smjer magnetskih silnica, palac pokazuje smjer brzine. Smjer vektora sile kojom magnetsko polje djeluje na pozitivno nabijenu česticu okomito izlazi iz dlana.
+
+    .. image:: pdr_lorentzovo.jpg
+      :width: 50%
+      :align: center
+
 17. Algebraski izraz za Lorentzovu silu
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+  .. admonition:: Lorentzova sila
+
+    :math:`F_L = q * v * B * sin(\alpha)` 
+
 18. Definirajte magnetski tok i navedite njegovu formulu s mjernom jedinicom
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+  .. admonition:: Magnetski tok
+
+    Magnetski tok je fizikalna veličina definirana umnoškom magnetske indukcije (:math:`B`) i površine (:math:`S`)
+    kroz koju prolaze silnice magnetskog polja.
+
+    :math:`\Phi = B * S * cos(\alpha)`
+
+    .. image:: magnetski_tok.jpg
+      :width: 50%
+      :align: center
 
 19. Amperova sila, formula, slika, pravilo desne ruke
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
