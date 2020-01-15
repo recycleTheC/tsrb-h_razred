@@ -33,7 +33,7 @@ Magnetizam
 
 4. Oerstedov pokus i zaključci
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  .. image:: oerstadev1.jpg
+  .. image:: oerstedov1.jpg
   
   Postavi li se magnetna igla paralelno s vodičem kroz koji pustimo struju, igla se zakreće. Kad promijenimo smjer struje kroz vodič, magnetna igla se zakreće u suprotnom smjeru od prijašnjeg.
 
@@ -110,8 +110,23 @@ Magnetizam
 11. Nacrtaj magnetske silnice za štapičasti magnet i potkovasti magnet
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+  .. admonition:: Štapičasti magnet
+
+    .. image:: stapicasti_magnet.jpg
+      :width: 50%
+      :align: center
+  
+  .. admonition:: Potkovasti magnet
+
+    .. image:: potkovasti_magnet.jpg
+      :width: 50%
+      :align: center
+
 12. Što je i koliko iznosi apsolutna permeabilnost vakuuma, relativna permeabilnost?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+  Apsolutna permeabilnost vakuuma je konstanta magnetske permeabilnosti vakuuma, koja iznosi :math:`\mu_0 = 4\pi * 10^{-7} \frac{H}{m}`.
+  Relativna permeabilnost, :math:`\mu_r`, je fizikalna veličina s pomoću koje se opisuje utjecaj tvari na vanjsko magnetsko polje.​
 
 13. Napišite jednadžbe za jakost magnetskog polja ravnog vodiča, petlje i zavojnice
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
