@@ -30,6 +30,16 @@ Elektromagnetizam
 4. O čemu ovisi Ampereova sila? Kako pravilom desne ruke određujemo njezin smjer? (nacrtati sliku)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+  Amperova sila ovisi o magnetskoj indukciji polja (B) u kojem se nalazi vodič, duljini vodiča i jakosti struje (I) kroz vodič.
+
+  .. admonition:: Pravilo desne ruke: Amperova sila
+
+    .. image:: ../magnetizam/pdr_amper.jpg
+      :width: 50%
+      :align: center
+    
+    Ispruženi prsti desne ruke pokazuju smjer magnetske indukcije (B), palac pokazuje smjer struje. Smjer vektora sile kojom magnetsko polje djeluje na **pozitivno nabijenu česticu** okomito izlazi iz dlana.
+
 5. Kojom veličinom opisujemo magnetsko polje? Je li to vektorska ili skalarna veličina?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -82,15 +92,18 @@ Elektromagnetizam
 
   .. admonition:: Ravni vodič
 
-    Magnetsko polje ravnog vodiča ovisi o udaljenosti od vodiča i jakosti struje kroz njega.
+    | Magnetsko polje ravnog vodiča ovisi o udaljenosti od vodiča i jakosti struje kroz njega.
+    | Obrtuno je proporcionalno udaljenosti od vodiča, proporcionalno je jakosti struje kroz vodič.
 
   .. admonition:: Petlja
 
-    Magnetsko polje petlje ovisi o polumjeru prsten i jakosti struje kroz njega. 
+    | Magnetsko polje petlje ovisi o polumjeru prstena i jakosti struje kroz njega. 
+    | Obrtuno je proporcionalno polumjeru prstena, proporcionalno je jakosti struje kroz vodič.
 
   .. admonition:: Zavojnica
 
-    Magnetsko polje zavojnice ovisi o broju namotaja, jakosti struje kroz zavojnicu i duljini zavojnice. 
+    | Magnetsko polje zavojnice ovisi o broju namotaja, jakosti struje kroz zavojnicu i duljini zavojnice. 
+    | Obrtuno je proporcionalno duljini zavojnice, proporcionalno je jakosti struje kroz vodič i broju namotaja.
 
 13. Kako možemo povećati magnetsku indukciju u zavojnici ne mijenjajući jakost struje?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

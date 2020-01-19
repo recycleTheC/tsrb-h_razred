@@ -54,15 +54,18 @@ Magnetizam
 
   .. admonition:: Ravni vodič
 
-    Magnetsko polje ravnog vodiča ovisi o udaljenosti od vodiča i jakosti struje kroz njega.
+    | Magnetsko polje ravnog vodiča ovisi o udaljenosti od vodiča i jakosti struje kroz njega.
+    | Obrtuno je proporcionalno udaljenosti od vodiča, proporcionalno je jakosti struje kroz vodič.
 
   .. admonition:: Petlja
 
-    Magnetsko polje petlje ovisi o polumjeru prsten i jakosti struje kroz njega. 
+    | Magnetsko polje petlje ovisi o polumjeru prstena i jakosti struje kroz njega. 
+    | Obrtuno je proporcionalno polumjeru prstena, proporcionalno je jakosti struje kroz vodič.
 
   .. admonition:: Zavojnica
 
-    Magnetsko polje zavojnice ovisi o broju namotaja, jakosti struje kroz zavojnicu i duljini zavojnice. 
+    | Magnetsko polje zavojnice ovisi o broju namotaja, jakosti struje kroz zavojnicu i duljini zavojnice. 
+    | Obrtuno je proporcionalno duljini zavojnice, proporcionalno je jakosti struje kroz vodič i broju namotaja.
 
 6. Kakve su silnice magnetskog polja?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
