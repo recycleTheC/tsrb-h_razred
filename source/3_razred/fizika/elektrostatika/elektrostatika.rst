@@ -117,7 +117,7 @@ U pripremi: `Magnetizam <../magnetizam/magnetizam.html>`__, `Elektromagnetizam <
 10. Koliki je naboj protona?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-  Naboj **protona** je jednak :math:`+1e = +1,6*10^{-19}` 
+  Naboj **protona** je jednak :math:`+1e = +1,6*10^{-19} C` 
 
 11. Što je elektrostatska influencija? Navedi primjer!
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -411,8 +411,8 @@ U pripremi: `Magnetizam <../magnetizam/magnetizam.html>`__, `Elektromagnetizam <
 33. O čemu i kako ovisi kapacitet pločastog kondenzatora?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-  Kapacitet pločastog kondenzatora ovisi o međusobnoj udaljenosti ploča, dielektriku (*izolatoru*) 
-  koji se nalazi između ploča i razlici potencijala (*naponu*) na pločama.
+  | Kapacitet kondenzatora ovisi o površini ploča kondenzatora, o razmaku između ploča i o sredstvu koje se između ploča nalazi.
+  | Proporcionalan je površini ploča i električnoj permitivnosti sredstva između ploča, a obrnuto proporcionalan razmaku između ploča.
 
 34. Izvedi izraz za ukupni kapacitet serijskog spoja N kondenzatora!
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
