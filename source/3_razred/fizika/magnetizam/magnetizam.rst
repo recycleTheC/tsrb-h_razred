@@ -205,6 +205,20 @@ Magnetizam
 19. Amperova sila, formula, slika, pravilo desne ruke
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+  .. admonition:: Amperova sila
+
+    Amperova sila je sila kojom magnetsko polje djeluje na vodič kojim teče električna struja.
+
+    :math:`F_{A} = B * I * l * sin(\alpha)` 
+
+  .. admonition:: Pravilo desne ruke: Amperova sila
+
+    .. image:: pdr_amper.jpg
+      :width: 50%
+      :align: center
+    
+    Ispruženi prsti desne ruke pokazuju smjer magnetske indukcije (B), palac pokazuje smjer struje. Smjer vektora sile kojom magnetsko polje djeluje na **pozitivno nabijenu česticu** okomito izlazi iz dlana.
+
 20. Što je to elektromagnetska indukcija? Faradayev zakon indukcije za ravni vodič i zavojnicu
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
