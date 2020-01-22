@@ -306,8 +306,26 @@ U pripremi: `Magnetizam <../magnetizam/magnetizam.html>`__, `Elektromagnetizam <
   .. image:: ekvipotencijalne_plohe.png
     :align: center
 
-24. Nacrtaj ekvipotencijalne plohe oko točkastog naboja, u prostoru između dviju paralalnih ploča!
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+24. Nacrtaj ekvipotencijalne plohe oko točkastog naboja / u prostoru između dviju paralelnih ploča!
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+  - ekvipotencijalne plohe -> crveno
+  - električne silnice -> plavo
+
+  .. admonition:: Točkasti naboj
+
+    .. image:: ekvipotencijalne_tockasti.jpg
+      :align: center
+
+    | - koncentrične kružnice
+  
+  .. admonition:: Prostor između paralelnih ploča
+
+    .. image:: ekvipotencijalne_paralelne.jpg
+      :align: center
+
+    | Ekvipotencijalne plohe u homogenom električnom polju su paralelne ravnine (paralelne su samo u području između nabijenih ploča).
+    | U dvodimenzionalnom prikazu to su paralelni pravci. Električne silnice i ekvipotencijali uvijek su međusobno okomiti.
 
 25. Nacrtaj graf ovisnosti električnog potencijala o udaljenosti od točkastog naboja, nabijene metalne kugle.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
