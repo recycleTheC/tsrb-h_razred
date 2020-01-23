@@ -444,18 +444,21 @@ U pripremi: `Magnetizam <../magnetizam/magnetizam.html>`__, `Elektromagnetizam <
 34. Izvedi izraz za ukupni kapacitet serijskog spoja N kondenzatora!
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-  (:math:`C_1=C_2=C_3=C_N`)
-
-  .. image:: serijski_kondenzatori.png
-      :width: 45 %
-
-  :math:`Q = \text{konst.}`
+  .. admonition:: Serijski spoj N kondenzatora
   
-  :math:`U = U_1 + U_2 + U_3 + \text{...} + U_N`
+    .. image:: serijski_kondenzatori.png
+        :width: 45%
+        :align: center
 
-  :math:`\frac{Q}{C_{uk}} = \frac{Q}{C_1} + \frac{Q}{C_2} + \frac{Q}{C_3 } + \text{...} + \frac{Q}{C_N} | :Q`
+    :math:`Q = \text{konst.}`
   
-  :math:`\frac{1}{C_{uk}} = \frac{1}{C_1} + \frac{1}{C_2} + \frac{1}{C_3 } + \text{...} + \frac{1}{C_N}`
+    :math:`U = U_1 + U_2 + U_3 + \text{...} + U_N`
+
+    :math:`\frac{Q}{C_{uk}} = \frac{Q}{C_1} + \frac{Q}{C_2} + \frac{Q}{C_3 } + \text{...} + \frac{Q}{C_N} | :Q`
+  
+    :math:`\frac{1}{C_{uk}} = \frac{1}{C_1} + \frac{1}{C_2} + \frac{1}{C_3 } + \text{...} + \frac{1}{C_N}`
+
+  Ako su svi kondenzatori jednakog kapaciteta (:math:`C_1=C_2=C_3=C_N`): 
 
   :math:`\frac{1}{C_{uk}} = N * \frac{1}{C}`  
 
@@ -466,17 +469,20 @@ U pripremi: `Magnetizam <../magnetizam/magnetizam.html>`__, `Elektromagnetizam <
 35. Izvedi izraz za ukupni kapacitet paralelnog spoja N kondenzatora!
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-  (:math:`C_1=C_2=C_3=C_N`)
+  .. admonition:: Paralelni spoj N kondenzatora
+  
+    .. image:: paralelni_kondenzatori.png
+        :width: 45%
+        :align: center
 
-  .. image:: paralelni_kondenzatori.png
-      :width: 45 %
+    :math:`Q = Q_1 + Q_2 + Q_3 + \text{...} + Q_N`
 
-  :math:`Q = Q_1 + Q_2 + Q_3 + \text{...} + Q_N`
+    :math:`Q = U*C_1 + U*C_2 + U*C_3 + \text{...} + U*C_N`
 
-  :math:`Q = U*C_1 + U*C_2 + U*C_3 + \text{...} + U*C_N`
+    :math:`C_{uk}*U = U*C_1 + U*C_2 + U*C_3 + \text{...} + U*C_N | :U`    
 
-  :math:`C_{uk}*U = U*C_1 + U*C_2 + U*C_3 + \text{...} + U*C_N | :U`    
+    :math:`C_{uk} = C_1 + C_2 + C_3 + \text{...} + C_N`
 
-  :math:`C_{uk} = C_1 + C_2 + C_3 + \text{...} + C_N`
+  Ako su svi kondenzatori jednakog kapaciteta (:math:`C_1=C_2=C_3=C_N`):
 
   :math:`C_{uk} = N * C` 
