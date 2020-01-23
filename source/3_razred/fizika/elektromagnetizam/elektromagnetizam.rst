@@ -145,6 +145,8 @@ Elektromagnetizam
       :width: 50%
       :align: center
 
+    :math:`\alpha = \text{kut između } \vec{S} \text{ i } \vec{B}` 
+
 16. Djelovanje struje na struju (sila između dva vodiča), slika, formula.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 

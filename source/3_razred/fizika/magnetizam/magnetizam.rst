@@ -185,7 +185,9 @@ Magnetizam
 
   .. admonition:: Lorentzova sila
 
-    :math:`F_L = q * v * B * sin(\alpha)` 
+    :math:`\vec{F_L} = q * \vec{v} * B * sin(\alpha)` 
+
+    :math:`\alpha = \text{kut između } \vec{v} \text{ i } \vec{B}` 
 
 18. Definirajte magnetski tok i navedite njegovu formulu s mjernom jedinicom
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -205,6 +207,9 @@ Magnetizam
       :width: 50%
       :align: center
 
+    | 
+    | :math:`\alpha = \text{kut između } \vec{S} \text{ i } \vec{B}` 
+
 19. Amperova sila, formula, slika, pravilo desne ruke
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -221,6 +226,8 @@ Magnetizam
       :align: center
     
     Ispruženi prsti desne ruke pokazuju smjer magnetske indukcije (B), palac pokazuje smjer struje. Smjer vektora sile kojom magnetsko polje djeluje na **pozitivno nabijenu česticu** okomito izlazi iz dlana.
+
+    :math:`\alpha = \text{kut između } I*\vec{l} \text{ i } \vec{B}` 
 
 20. Što je to elektromagnetska indukcija? Faradayev zakon indukcije za ravni vodič i zavojnicu
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
