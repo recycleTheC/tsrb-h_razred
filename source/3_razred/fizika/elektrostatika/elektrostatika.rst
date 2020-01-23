@@ -297,6 +297,7 @@ U pripremi: `Magnetizam <../magnetizam/magnetizam.html>`__, `Elektromagnetizam <
     **Električni potencijal** (:math:`\phi`) je kvocijent električne potencijalne energije i naboja; skalarna veličina.
 
     | :math:`\phi = \frac{E_{ep}}{q}` :math:`[\frac{J}{C}]` :math:`[V]`
+    | :math:`\phi = k * \frac{Q}{r}` - električni potencijal naboja Q na udaljenosti r
 
 23. Što je ekvipotencijalna ploha?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -330,7 +331,15 @@ U pripremi: `Magnetizam <../magnetizam/magnetizam.html>`__, `Elektromagnetizam <
 25. Nacrtaj graf ovisnosti električnog potencijala o udaljenosti od točkastog naboja, nabijene metalne kugle.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-  .. image:: potencijal_kugla.png
+  .. admonition:: Točkasti naboj
+  
+    .. image:: potencijal_tockasti.png
+      :align: center
+
+  .. admonition:: Nabijena metalna kugla
+  
+    .. image:: potencijal_kugla.png
+      :align: center
 
 26. Kako definiramo napon? Jednadžba i jedninca
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
