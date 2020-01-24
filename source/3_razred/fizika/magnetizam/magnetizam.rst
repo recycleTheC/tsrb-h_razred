@@ -14,6 +14,9 @@ Magnetizam
   :backlinks: none
   :depth: 3
 
+.. admonition:: Konstante
+
+  - apsolutna magnetska permeabilnost: :math:`\mu_0 = 4\pi * 10^{-7} \frac{Tm}{A}` 
 
 1. Podjela magneta
 ^^^^^^^^^^^^^^^^^^
@@ -34,7 +37,7 @@ Magnetizam
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
   Zemlja se ponaša kao veliki magnet. Uzrok Zemljina magnetskog polja je gibanje nabijenih čestica u njezinom tekućem dijelu.
-  | Južni pol Zemljinog magnetskog polja nalazi se u blizini Sjevernoga geografskog pola, a sjeverni magnetski pol je u blizini Južnoga geografskog pola.
+  Južni pol Zemljinog magnetskog polja nalazi se u blizini Sjevernoga **geografskog** pola, a sjeverni magnetski pol je u blizini Južnoga **geografskog** pola.
   Položaj magnetskih polova pomaknut je u odnosu na položaje geografskih polova. 
 
   .. image:: zemljino_mag-polje.jpg
@@ -138,7 +141,7 @@ Magnetizam
 12. Što je i koliko iznosi apsolutna permeabilnost vakuuma, relativna permeabilnost?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-  Apsolutna permeabilnost vakuuma je konstanta magnetske permeabilnosti vakuuma, koja iznosi :math:`\mu_0 = 4\pi * 10^{-7} \frac{H}{m}`.
+  Apsolutna permeabilnost vakuuma je konstanta magnetske permeabilnosti vakuuma, koja iznosi :math:`\mu_0 = 4\pi * 10^{-7} \frac{Tm}{A} [\frac{H}{m}]`.
   
   Relativna permeabilnost, :math:`\mu_r`, je fizikalna veličina s pomoću koje se opisuje utjecaj tvari na vanjsko magnetsko polje.​
 
