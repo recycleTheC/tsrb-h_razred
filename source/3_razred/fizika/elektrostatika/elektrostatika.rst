@@ -459,7 +459,7 @@ U pripremi: `Magnetizam <../magnetizam/magnetizam.html>`__, `Elektromagnetizam <
         :width: 45%
         :align: center
 
-    :math:`Q = \text{konst.}`
+    :math:`C = \frac{Q}{U}`, :math:`Q = \text{konst.}`
   
     :math:`U = U_1 + U_2 + U_3 + \text{...} + U_N`
 
@@ -483,6 +483,8 @@ U pripremi: `Magnetizam <../magnetizam/magnetizam.html>`__, `Elektromagnetizam <
     .. image:: paralelni_kondenzatori.png
         :width: 45%
         :align: center
+
+    :math:`C = \frac{Q}{U}`, :math:`U = \text{konst.}`
 
     :math:`Q = Q_1 + Q_2 + Q_3 + \text{...} + Q_N`
 
