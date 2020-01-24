@@ -108,6 +108,10 @@ Elektromagnetizam
 13. Kako možemo povećati magnetsku indukciju u zavojnici ne mijenjajući jakost struje?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+  :math:`B = \mu_0 \mu_r * \frac{N*I}{l}` 
+
+  Povećamo broj namotaja zavojnice.
+
 14. Kako biste desnom rukom odredili smjer magnetskog polja ravnog vodiča i zavojnice?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
