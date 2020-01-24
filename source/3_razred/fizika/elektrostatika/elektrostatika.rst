@@ -16,7 +16,7 @@ U pripremi: `Magnetizam <../magnetizam/magnetizam.html>`__, `Elektromagnetizam <
 
 .. admonition:: Konstante
 
-  - konstanta proporcionalnosti za zrak/vakuum: :math:`k = \frac{1}{4\pi*\epsilon_0} = 9 * 10^* \frac{Nm^2}{C^2}` 
+  - konstanta proporcionalnosti za zrak/vakuum: :math:`k = \frac{1}{4\pi*\epsilon_0} = 9 * 10^9 \frac{Nm^2}{C^2}` 
   - kvant električnog naboja: :math:`e = 1,6*10^{-19} C` 
 
 1. Kako biste pokusom dokazali da postoje dvije vrste naboja?
