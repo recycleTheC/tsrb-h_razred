@@ -14,6 +14,11 @@ U pripremi: `Magnetizam <../magnetizam/magnetizam.html>`__, `Elektromagnetizam <
   :depth: 3
 
 
+.. admonition:: Konstante
+
+  - konstanta proporcionalnosti za zrak/vakuum: :math:`k = \frac{1}{4\pi*\epsilon_0} = 9 * 10^* \frac{Nm^2}{C^2}` 
+  - kvant električnog naboja: :math:`e = 1,6*10^{-19} C` 
+
 1. Kako biste pokusom dokazali da postoje dvije vrste naboja?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -277,7 +282,7 @@ U pripremi: `Magnetizam <../magnetizam/magnetizam.html>`__, `Elektromagnetizam <
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
   Kada pozitivno nabijenoj metalnoj ploči približimo nenabijenu, u nenabijenoj ploči će doći do razdvajanja pozitivnog
-  od negativnog naboja (elektrostatska indukcija, slika 1a). Spojimo li ploču, u kojoj su se naboji razdvojili vodičem s tlom
+  od negativnog naboja (električna influencija, slika 1a). Spojimo li ploču, u kojoj su se naboji razdvojili vodičem s tlom
   (uzemljimo je), elektroni pristigli iz tla neutraliziraju pozitivan naboj. Preostale su dvije
   ploče s jednakim količinama različitih naboja (slika 1b).
 
@@ -294,7 +299,7 @@ U pripremi: `Magnetizam <../magnetizam/magnetizam.html>`__, `Elektromagnetizam <
 
   .. admonition:: Električni potencijal
 
-    **Električni potencijal** (:math:`\phi`) je kvocijent električne potencijalne energije i naboja; skalarna veličina.
+    **Električni potencijal** (:math:`\phi`) je kvocijent električne potencijalne energije (koju ima naboj :math:`q`) i količine naboja; skalarna veličina.
 
     | :math:`\phi = \frac{E_{ep}}{q}` :math:`[\frac{J}{C}]` :math:`[V]`
     | :math:`\phi = k * \frac{Q}{r}` - električni potencijal naboja Q na udaljenosti r
@@ -405,10 +410,14 @@ U pripremi: `Magnetizam <../magnetizam/magnetizam.html>`__, `Elektromagnetizam <
 
   | :math:`1 eV` je kinetička energija koju primi elektron ubrzan kroz dvije točke električnog polja s razlikom potencijala 1V 
 
+  | :math:`1 eV = 1,6*10^{19} J` 
+
 30. Kako se sve mogu gibati nabijene čestice između ploča pločastog kondenzatora? Koje jednadžbe gibanja tada koristimo?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-  Nabijene čestice između ploča pločastog kondenzatora kreću se ubrzano (*na njih djeluje elektrostatska sila,* :math:`F = m*a`).
+  Nabijene čestice između ploča pločastog kondenzatora kreću se ubrzano (*na njih djeluje elektrostatska sila*).
+
+  (:math:`F = m*a`)
 
   :math:`v = v_0 + a * t` 
 
