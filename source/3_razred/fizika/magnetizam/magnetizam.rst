@@ -1,6 +1,13 @@
 Magnetizam
 ==========
 
+.. role:: red
+.. role:: green
+.. role:: blue
+.. raw:: html
+
+    <style>.red{color:red;}.blue{color:blue;}.green{color:green;}</style>
+
 | `Elektrostatika <../elektrostatika/elektrostatika.html>`__
 | `Elektromagnetizam <../elektromagnetizam/elektromagnetizam.html>`__
 
@@ -202,15 +209,19 @@ Magnetizam
 
     :math:`\Phi = B * S * cos(\alpha)` :math:`[Wb]` 
 
-    .. image:: magnetski_tok.jpg
+    .. figure:: magnetski_tok.jpg
+       :width: 50%
+       :align: center
+
+       :red:`Smjer` :math:`\vec{B}` je jednak :green:`smjeru vektora površine` :math:`\vec{S}`
+
+    .. figure:: magnetski_tok2.jpg
       :width: 50%
       :align: center
 
-    .. image:: magnetski_tok2.jpg
-      :width: 50%
-      :align: center
+      :red:`Smjer vektora površine` :math:`\vec{S}`, 
+      :blue:`Smjer vektora magnetske indukcije` :math:`\vec{B}` 
 
-    | 
     | :math:`\alpha = \text{kut između } \vec{S} \text{ i } \vec{B}` 
 
 19. Amperova sila, formula, slika, pravilo desne ruke
