@@ -154,6 +154,27 @@ Elektromagnetizam
 16. Djelovanje struje na struju (sila između dva vodiča), slika, formula.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+  .. figure:: paralelni-vodici.png
+    :align: center
+    
+    Vodiči kojima teku struje istog smjera međusobno se privlače (a), a odbijaju ako su struje suportnih smjerova (b). 
+
+  Struja kroz jedan vodič stvara magnetsko polje koje Amperovom silom djeluje na drugi vodič.
+
+  Smjer sila na vodiče odrediti **Pravilom desne ruke za Amperovu silu na vodič:**
+
+  .. figure:: sile_paralelni-vodici.png
+    :align: center
+
+  | :math:`\vec{F} = \vec{B_1} * I_2 * l`
+
+  | :math:`\vec{F} = \mu_0 \mu_r \frac{I_1*I_2*l}{2 \pi r}`       
+
+  .. admonition:: Definicija ampera [A]
+  
+    **Amper je jakost električne struje u svakom od sva vrlo tanka ravna i usporedna vodiča zanemarivo malenog
+    kružnog presjeka i beskonačne duljine, položena u vakuumu na razmaku 1m, koja među vodičima uzrokuje silu** :math:`2*10^{-7}` **njutna po metru duljine.** 
+
 17. Izvod jednadžbe za inducirani napon ravnog vodiča i slika.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
