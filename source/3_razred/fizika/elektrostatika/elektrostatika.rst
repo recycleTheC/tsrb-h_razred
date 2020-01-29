@@ -410,7 +410,7 @@ U pripremi: `Magnetizam <../magnetizam/magnetizam.html>`__, `Elektromagnetizam <
 
   | :math:`1 eV` je kinetička energija koju primi elektron ubrzan kroz dvije točke električnog polja s razlikom potencijala 1V 
 
-  | :math:`1 eV = 1,6*10^{19} J` 
+  | :math:`1 eV = 1,6*10^{-19} J` 
 
 30. Kako se sve mogu gibati nabijene čestice između ploča pločastog kondenzatora? Koje jednadžbe gibanja tada koristimo?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
