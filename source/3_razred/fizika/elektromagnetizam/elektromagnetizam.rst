@@ -1,6 +1,13 @@
 Elektromagnetizam
 =================
 
+.. role:: red
+.. role:: green
+.. role:: blue
+.. raw:: html
+
+    <style>.red{color:red;}.blue{color:blue;}.green{color:green;}</style>
+
 | `Elektrostatika <../elektrostatika/elektrostatika.html>`__
 | `Magnetizam <../magnetizam/magnetizam.html>`__
 
@@ -70,6 +77,9 @@ Elektromagnetizam
 8. Kolika je Lorentzova sila na a) neutron a kolika na proton koji se giba paralelno silnicama magnetskog polja b) na elektron koji miruje u magnetskom polju?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+a) :math:`F_A = 0 N` - paralelno silnicama -> :math:`sin(0°) = 0`; neutron nema naboj
+b) :math:`F_A = 0 N` - mirovanje -> :math:`\vec{v} = 0 m/s`   
+
 9. U kakvom su odnosu iznosi sila na elektron i proton koji se gibaju homogenim magnetskim poljem jednakim brzinama, u istom smjeru, okomito na silnice? Po čemu se te sile razlikuju? Koja čestica dobiva veću akceleraciju?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -134,6 +144,7 @@ Elektromagnetizam
 15. Magnetski tok (definicija, formula, jedinica)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+
   .. admonition:: Magnetski tok
 
     Magnetski tok je fizikalna veličina definirana umnoškom magnetske indukcije (:math:`B`) i površine (:math:`S`)
@@ -141,15 +152,20 @@ Elektromagnetizam
 
     :math:`\Phi = B * S * cos(\alpha)` :math:`[Wb]` 
 
-    .. image:: ../magnetizam/magnetski_tok.jpg
+    .. figure:: ../magnetizam/magnetski_tok.jpg
+       :width: 50%
+       :align: center
+
+       :red:`Smjer` :math:`\vec{B}` je jednak :green:`smjeru vektora površine` :math:`\vec{S}`
+
+    .. figure:: ../magnetizam/magnetski_tok2.jpg
       :width: 50%
       :align: center
 
-    .. image:: ../magnetizam/magnetski_tok2.jpg
-      :width: 50%
-      :align: center
+      :red:`Smjer vektora površine` :math:`\vec{S}`, 
+      :blue:`Smjer vektora magnetske indukcije` :math:`\vec{B}` 
 
-    :math:`\alpha = \text{kut između } \vec{S} \text{ i } \vec{B}` 
+    | :math:`\alpha = \text{kut između } \vec{S} \text{ i } \vec{B}` 
 
 16. Djelovanje struje na struju (sila između dva vodiča), slika, formula.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
