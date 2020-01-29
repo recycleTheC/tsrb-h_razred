@@ -195,7 +195,7 @@ Magnetizam
 
   .. admonition:: Lorentzova sila
 
-    :math:`\vec{F_L} = q * \vec{v} * B * sin(\alpha)` 
+    :math:`\vec{F_L} = q * \vec{v} * \vec{B} * sin(\alpha)` 
 
     :math:`\alpha = \text{kut između } \vec{v} \text{ i } \vec{B}` 
 
@@ -239,7 +239,7 @@ Magnetizam
       :width: 50%
       :align: center
     
-    Ispruženi prsti desne ruke pokazuju smjer magnetske indukcije (B), palac pokazuje smjer struje. Smjer vektora sile kojom magnetsko polje djeluje na **pozitivno nabijenu česticu** okomito izlazi iz dlana.
+    Ispruženi prsti desne ruke pokazuju smjer magnetske indukcije (B), palac pokazuje smjer struje. Smjer vektora sile kojom magnetsko polje djeluje na **vodič** okomito izlazi iz dlana.
 
     :math:`\alpha = \text{kut između } I*\vec{l} \text{ i } \vec{B}` 
 
