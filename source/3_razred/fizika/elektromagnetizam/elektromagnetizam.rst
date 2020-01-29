@@ -168,11 +168,13 @@ Elektromagnetizam
 
   | :math:`\vec{F} = \vec{B_1} * I_2 * l`
 
-  | :math:`\vec{F} = \mu_0 \mu_r \frac{I_1*I_2*l}{2 \pi r}`       
+  .. admonition:: Sila među vodičima kojima teče struja
+  
+    :math:`\vec{F} = \mu_0 \mu_r \frac{I_1*I_2}{2 \pi r} * l`       
 
   .. admonition:: Definicija ampera [A]
   
-    **Amper je jakost električne struje u svakom od sva vrlo tanka ravna i usporedna vodiča zanemarivo malenog
+    **Amper je jakost električne struje u svakom od dva vrlo tanka paralelna ravna vodiča zanemarivo malenog
     kružnog presjeka i beskonačne duljine, položena u vakuumu na razmaku 1m, koja među vodičima uzrokuje silu** :math:`2*10^{-7}` **njutna po metru duljine.** 
 
 17. Izvod jednadžbe za inducirani napon ravnog vodiča i slika.
