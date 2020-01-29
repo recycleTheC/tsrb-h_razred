@@ -438,7 +438,7 @@ U pripremi: `Magnetizam <../magnetizam/magnetizam.html>`__, `Elektromagnetizam <
 
     **Kapacitet** kondenzatora je kvocijent količine naboja (:math:`Q`) na oblogama kondenzatora i napona (:math:`U`) među njima.
 
-    :math:`C = \frac{Q}{U} = \epsilon_0 \epsilon_r \frac{S}{d}` :math:`[F]`
+    :math:`C = \frac{Q}{U} = \epsilon_0 \epsilon_r \frac{S}{d}` :math:`[\frac{N}{C}][F]`
 
   .. admonition:: Energija električnog polja kondenzatora 
 
