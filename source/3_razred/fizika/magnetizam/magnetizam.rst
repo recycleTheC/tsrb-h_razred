@@ -246,6 +246,20 @@ Magnetizam
 20. Što je to elektromagnetska indukcija? Faradayev zakon indukcije za ravni vodič i zavojnicu
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+  Elektromagnetska indukcija je induciranje napona magnetskim poljem.
+
+  .. admonition:: Faradayev zakon indukcije za ravni vodič
+
+    Inducirani elektromotorni napon proporcionalan je brzini promjene magnetskog toka, a djelovanjem se suprotstavlja uzroku indukcije.
+
+    :math:`\epsilon_i = - \frac{\Delta\Phi}{\Delta t}`
+
+  .. admonition:: Faradayev zakon indukiuje za zavojnicu
+  
+    U zavojnici s N namotaja, inducirani napon je N puta veći, odnos veličina vrijedi kao i za ravni vodič.
+
+    :math:`\epsilon_i = - N * \frac{\Delta\Phi}{\Delta t}`
+
 21. Flemingovo pravilo desne ruke za određivanje smjera induciranog napona: ako je palac u smjeru gibanja vodiča (v), kažiprst u smjeru polja (B), srednjak će pokazivati smjer induciranog napona, odnosno smjer kojim će teći struja ako je strujni krug zatvoren.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -255,17 +269,41 @@ Magnetizam
 23. Navedite slučajeve induciranja napona u zavojnici?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-24. Lentzovo pravilo
+  - zavojnica miruje a kroz nju se pomiče magnet
+  - magnet miruje a zavojnica se pomiče
+  - unutar prve zavojnice se nalazi druga zavojnica kroz koju teče struja
+    
+    - zavjonica kroz koju teče struja -> primar (primarna zavojnica)
+    
+    - zavojnica u kojoj se inducira napon -> sekundar (sekundarna zavojnica)
+
+24. Lenzovo pravilo
 ^^^^^^^^^^^^^^^^^^^^
+
+  .. admonition:: Lenzovo pravilo
+  
+    Pravilo prema kojemu je smjer induciranog napona i struje u zavojnici kroz koju se mijenja magnetski tok uvijek takav da se suprotstavlja promjeni magnetskoga toka kojim je napon induciran.
+
+    ili
+
+    Suprotstavljanje induciranog napona uzroku indukcije.
+
 
 25. Što se događa prilikom uključenja zavojnice u strujnom krugu? Zašto se u njoj inducira napon? Zašto vrijednost struje kroz nju ne poraste na najveću moguću vrijednost trenutno?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+  Prilikom uključenja zavojnice u strojni krug, na njenim krajevima se inducira napon koji se opire promjeni magnetskog toga kroz zavojnicu (koji na početku iznosi 0). 
+  Jakost struje postepeno raste kako se smjanjuje promjena magnetskog toga u zavojnici.
+
 26. Što se događa prilikom isključivanja zavojnice u krugu?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+  Na krajevima zavojnice se inducira napon.
+
 27. Napišite jednadžbu koja povezuje magnetski tok i jakost struje kroz zavojnicu.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+  :math:`I = \frac{\phi}{L}` 
 
 28. Što je to induktivitet i o čemu ovisi?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

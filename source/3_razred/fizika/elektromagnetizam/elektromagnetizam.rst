@@ -196,35 +196,103 @@ b) :math:`F_A = 0 N` - mirovanje -> :math:`\vec{v} = 0 m/s`
 17. Izvod jednadžbe za inducirani napon ravnog vodiča i slika.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+  .. image:: inducirani_napon_ravni.png
+    :align: center
+
+  Gibanje slobodnih elektrona prema jednom kraju vodiča prestaje kada se sila kojom na njih djeluje električno polje (:math:`F_e = e*E`) izjednači s Lorentzovom silom (:math:`F_L = B * e * v`):
+
+  :math:`e*E = B * e * v`
+
+  Jakost električnog polja između krajeva vodiča zamijeniti sa kvocijentom induciranog elektomotornog napona i duljine vodiča:
+
+  :math:`\frac{\epsilon_i}{l} = B * v`
+
+  .. admonition:: Inducirani elektromotorni napon
+
+    :math:`\epsilon_i = B * l * v`
+
+  .. admonition:: Opći zapis za inducirani elektromotorni napon
+
+    :math:`\epsilon_i = B * l * v * sin(\phi)`
+
+    - :math:`\phi` - kut između smjera brzine i smjera silnica (potječe od Lorentzove sile) 
+
+
 18. Faradayev zakon elektromagnetske indukcije: iskazati ga, formula.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+  .. admonition:: Faradayev zakon indukcije za ravni vodič
+
+    Inducirani elektromotorni napon proporcionalan je brzini promjene magnetskog toka, a djelovanjem se suprotstavlja uzroku indukcije.
+
+    :math:`\epsilon_i = - \frac{\Delta\Phi}{\Delta t}`
 
 19. O čemu prema Faradayevom zakonu ovisi inducirani napon?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+  Prema Faradayevom zakonu inducirani napon ovisi o brzini promjene magnetskog toka.
+
 20. Objasni Lenzovo pravilo.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-21. Što je međuindukdja?
-^^^^^^^^^^^^^^^^^^^^^^^^
+    .. admonition:: Lenzovo pravilo
+  
+      Pravilo prema kojemu je smjer induciranog napona i struje u zavojnici kroz koju se mijenja magnetski tok uvijek takav da se suprotstavlja promjeni magnetskoga toka kojim je napon induciran.
+
+      ili
+
+      Suprotstavljanje induciranog napona uzroku indukcije.
+
+21. Što je međuindukcija?
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+    Međuindukcija je induciranje elektromotornog napona kada se zavojnica nalazi u blizini druge zavojnice u kojoj se mijenja jakost električne struje.
 
 22. Koja je razlika između primarne i sekundarne zavojnice?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+  - zavjonica kroz koju teče struja -> primar (primarna zavojnica)
+    
+  - zavojnica u kojoj se inducira napon -> sekundar (sekundarna zavojnica)
+
 23. Izvod izraza za koeficijent međuindukcije.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+  .. admonition:: Koeficijent međuindukcije
+  
+    :math:`M = \mu_0 \mu_r * N_1 * N_2 * \frac{S}{l}` 
 
 24. Kako glasi izraz za inducirani elektromotorni napon preko koeficijenta međuindukcije?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+  :math:`\epsilon_i = -M * \frac{\Delta I}{\Delta t}` 
+
 25. Čemu je u tom izrazu proporcionalan inducirani napon?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+  U tom izrazu, inducirani napon je proporcionalan koeficijentu međuindukcije (:math:`M`) i brzini promjene jakosti struje (:math:`\frac{\Delta I}{\Delta t}`).
+
 
 26. Objasni pojavu samoindukcije
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+  Dok zavojnicom teče struja, magnetski tok ima stalnu vrijednost. Prekidanjem strujnog kruga jakost stuje pada na 0, a time i magnetski tok.
+  Zbog te promjene magetskog toka na krajevima zavojnice se inducira napon. 
+
+  Napon će se inducirati i pri zatvaranju strujnog kruga, kada struja poteče zavojnicom.
+
+  **Samoindukcija** je induciranje napona između krajeva zavojnice promjenom jakosti struje kroz nju.
+
 27. Kako glasi izraz za koeficijent samoindukcije i inducirani napon?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+  .. admonition:: Koeficijent samoindukcije
+  
+    :math:`L = \mu_0 \mu_r \frac{N^2 * S}{l}` 
+
+  .. admonition:: Inducirani napon
+  
+    :math:`\epsilon_i = -L * \frac{\Delta I}{\Delta t}` 
 
 28. Objasni energiju magnetskog polja
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
