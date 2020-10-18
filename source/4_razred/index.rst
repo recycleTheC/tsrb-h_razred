@@ -3,13 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Tehnička škola Ruđera Boškovića - Skripte za učenje
-===================================================
+4. razred (2020. / 2021.)
+====================================================
 
 .. toctree::
    :maxdepth: 1
-   :caption: Razredi
+   :caption: Sadržaj
 
-   2_razred/index
-   3_razred/index
-   4_razred/index
+   fizika/index
